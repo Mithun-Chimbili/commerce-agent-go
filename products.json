@@ -1,0 +1,6009 @@
+[
+  {
+    "id": "SHIRT-001",
+    "category": "shirt",
+    "name": "NordicWear Blue Poly-Cotton Oxford Shirt",
+    "brand": "NordicWear",
+    "type": "Oxford Shirt",
+    "color": "Blue",
+    "material": "Poly-Cotton",
+    "fit": "Tailored Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "L",
+      "M",
+      "XL"
+    ],
+    "price": 1899,
+    "rating": 4.1,
+    "stock": 37
+  },
+  {
+    "id": "SHIRT-002",
+    "category": "shirt",
+    "name": "CrestLine Navy Poplin Henley Shirt",
+    "brand": "CrestLine",
+    "type": "Henley Shirt",
+    "color": "Navy",
+    "material": "Poplin",
+    "fit": "Slim Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "M",
+      "S",
+      "XL",
+      "L"
+    ],
+    "price": 3399,
+    "rating": 3.9,
+    "stock": 18
+  },
+  {
+    "id": "SHIRT-003",
+    "category": "shirt",
+    "name": "Monolith Navy Linen Oxford Shirt",
+    "brand": "Monolith",
+    "type": "Oxford Shirt",
+    "color": "Navy",
+    "material": "Linen",
+    "fit": "Regular Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 999,
+    "rating": 4.8,
+    "stock": 23
+  },
+  {
+    "id": "SHIRT-004",
+    "category": "shirt",
+    "name": "UrbanCraft Beige Cotton Flannel Shirt",
+    "brand": "UrbanCraft",
+    "type": "Flannel Shirt",
+    "color": "Beige",
+    "material": "Cotton",
+    "fit": "Tailored Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "L",
+      "XXL",
+      "XL"
+    ],
+    "price": 2849,
+    "rating": 4.9,
+    "stock": 44
+  },
+  {
+    "id": "SHIRT-005",
+    "category": "shirt",
+    "name": "UrbanCraft Brown Flannel Linen Shirt",
+    "brand": "UrbanCraft",
+    "type": "Linen Shirt",
+    "color": "Brown",
+    "material": "Flannel",
+    "fit": "Tailored Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "L",
+      "M"
+    ],
+    "price": 1399,
+    "rating": 4.4,
+    "stock": 49
+  },
+  {
+    "id": "SHIRT-006",
+    "category": "shirt",
+    "name": "UrbanCraft White Poly-Cotton Flannel Shirt",
+    "brand": "UrbanCraft",
+    "type": "Flannel Shirt",
+    "color": "White",
+    "material": "Poly-Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "S",
+      "XL",
+      "L"
+    ],
+    "price": 949,
+    "rating": 3.9,
+    "stock": 13
+  },
+  {
+    "id": "SHIRT-007",
+    "category": "shirt",
+    "name": "Monolith Brown Linen Flannel Shirt",
+    "brand": "Monolith",
+    "type": "Flannel Shirt",
+    "color": "Brown",
+    "material": "Linen",
+    "fit": "Tailored Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XL",
+      "S",
+      "M",
+      "XXL",
+      "L"
+    ],
+    "price": 3149,
+    "rating": 4.9,
+    "stock": 31
+  },
+  {
+    "id": "SHIRT-008",
+    "category": "shirt",
+    "name": "Veloce Navy Poplin Oxford Shirt",
+    "brand": "Veloce",
+    "type": "Oxford Shirt",
+    "color": "Navy",
+    "material": "Poplin",
+    "fit": "Tailored Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "S",
+      "XL",
+      "M"
+    ],
+    "price": 2399,
+    "rating": 3.7,
+    "stock": 25
+  },
+  {
+    "id": "SHIRT-009",
+    "category": "shirt",
+    "name": "NordicWear Navy Cotton Oxford Shirt",
+    "brand": "NordicWear",
+    "type": "Oxford Shirt",
+    "color": "Navy",
+    "material": "Cotton",
+    "fit": "Tailored Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "XL",
+      "L",
+      "S",
+      "XXL"
+    ],
+    "price": 1399,
+    "rating": 4.1,
+    "stock": 31
+  },
+  {
+    "id": "SHIRT-010",
+    "category": "shirt",
+    "name": "Kova Charcoal Cotton Henley Shirt",
+    "brand": "Kova",
+    "type": "Henley Shirt",
+    "color": "Charcoal",
+    "material": "Cotton",
+    "fit": "Tailored Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "M",
+      "XL"
+    ],
+    "price": 2549,
+    "rating": 4.4,
+    "stock": 10
+  },
+  {
+    "id": "SHIRT-011",
+    "category": "shirt",
+    "name": "CrestLine Maroon Flannel Polo Shirt",
+    "brand": "CrestLine",
+    "type": "Polo Shirt",
+    "color": "Maroon",
+    "material": "Flannel",
+    "fit": "Tailored Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "L",
+      "M",
+      "XXL",
+      "XL",
+      "S"
+    ],
+    "price": 2299,
+    "rating": 4.1,
+    "stock": 10
+  },
+  {
+    "id": "SHIRT-012",
+    "category": "shirt",
+    "name": "UrbanCraft Olive Linen Polo Shirt",
+    "brand": "UrbanCraft",
+    "type": "Polo Shirt",
+    "color": "Olive",
+    "material": "Linen",
+    "fit": "Regular Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "S",
+      "L",
+      "M"
+    ],
+    "price": 2049,
+    "rating": 4.4,
+    "stock": 44
+  },
+  {
+    "id": "SHIRT-013",
+    "category": "shirt",
+    "name": "CrestLine Olive Cotton Linen Shirt",
+    "brand": "CrestLine",
+    "type": "Linen Shirt",
+    "color": "Olive",
+    "material": "Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XXL",
+      "S",
+      "XL",
+      "L",
+      "M"
+    ],
+    "price": 2799,
+    "rating": 4.9,
+    "stock": 16
+  },
+  {
+    "id": "SHIRT-014",
+    "category": "shirt",
+    "name": "ApexApparel Grey Linen Linen Shirt",
+    "brand": "ApexApparel",
+    "type": "Linen Shirt",
+    "color": "Grey",
+    "material": "Linen",
+    "fit": "Regular Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XXL",
+      "XL",
+      "M",
+      "S"
+    ],
+    "price": 2149,
+    "rating": 3.8,
+    "stock": 35
+  },
+  {
+    "id": "SHIRT-015",
+    "category": "shirt",
+    "name": "NordicWear Olive Poplin Flannel Shirt",
+    "brand": "NordicWear",
+    "type": "Flannel Shirt",
+    "color": "Olive",
+    "material": "Poplin",
+    "fit": "Regular Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XL",
+      "L",
+      "XXL",
+      "M"
+    ],
+    "price": 1699,
+    "rating": 4.5,
+    "stock": 48
+  },
+  {
+    "id": "SHIRT-016",
+    "category": "shirt",
+    "name": "Kova Brown Flannel Henley Shirt",
+    "brand": "Kova",
+    "type": "Henley Shirt",
+    "color": "Brown",
+    "material": "Flannel",
+    "fit": "Relaxed Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "price": 1449,
+    "rating": 4.8,
+    "stock": 23
+  },
+  {
+    "id": "SHIRT-017",
+    "category": "shirt",
+    "name": "NordicWear Blue Poly-Cotton Polo Shirt",
+    "brand": "NordicWear",
+    "type": "Polo Shirt",
+    "color": "Blue",
+    "material": "Poly-Cotton",
+    "fit": "Regular Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "XXL",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 1299,
+    "rating": 5,
+    "stock": 19
+  },
+  {
+    "id": "SHIRT-018",
+    "category": "shirt",
+    "name": "NordicWear Olive Poplin Oxford Shirt",
+    "brand": "NordicWear",
+    "type": "Oxford Shirt",
+    "color": "Olive",
+    "material": "Poplin",
+    "fit": "Tailored Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "XL",
+      "M",
+      "XXL",
+      "S"
+    ],
+    "price": 1749,
+    "rating": 3.5,
+    "stock": 27
+  },
+  {
+    "id": "SHIRT-019",
+    "category": "shirt",
+    "name": "Veloce Olive Cotton Dress Shirt",
+    "brand": "Veloce",
+    "type": "Dress Shirt",
+    "color": "Olive",
+    "material": "Cotton",
+    "fit": "Slim Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "L",
+      "XXL",
+      "S"
+    ],
+    "price": 3149,
+    "rating": 5,
+    "stock": 19
+  },
+  {
+    "id": "SHIRT-020",
+    "category": "shirt",
+    "name": "Kova Navy Linen Oxford Shirt",
+    "brand": "Kova",
+    "type": "Oxford Shirt",
+    "color": "Navy",
+    "material": "Linen",
+    "fit": "Slim Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "M",
+      "XXL",
+      "XL",
+      "L"
+    ],
+    "price": 2599,
+    "rating": 3.6,
+    "stock": 13
+  },
+  {
+    "id": "SHIRT-021",
+    "category": "shirt",
+    "name": "Monolith Blue Bamboo Blend Flannel Shirt",
+    "brand": "Monolith",
+    "type": "Flannel Shirt",
+    "color": "Blue",
+    "material": "Bamboo Blend",
+    "fit": "Relaxed Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "L",
+      "XXL",
+      "S",
+      "M",
+      "XL"
+    ],
+    "price": 2099,
+    "rating": 4.4,
+    "stock": 30
+  },
+  {
+    "id": "SHIRT-022",
+    "category": "shirt",
+    "name": "UrbanCraft Olive Cotton Henley Shirt",
+    "brand": "UrbanCraft",
+    "type": "Henley Shirt",
+    "color": "Olive",
+    "material": "Cotton",
+    "fit": "Slim Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "M",
+      "S",
+      "L",
+      "XXL"
+    ],
+    "price": 2349,
+    "rating": 4.4,
+    "stock": 38
+  },
+  {
+    "id": "SHIRT-023",
+    "category": "shirt",
+    "name": "Veloce Blue Poplin Polo Shirt",
+    "brand": "Veloce",
+    "type": "Polo Shirt",
+    "color": "Blue",
+    "material": "Poplin",
+    "fit": "Slim Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "L",
+      "S",
+      "XL"
+    ],
+    "price": 3149,
+    "rating": 4.7,
+    "stock": 29
+  },
+  {
+    "id": "SHIRT-024",
+    "category": "shirt",
+    "name": "Solstice Blue Cotton Dress Shirt",
+    "brand": "Solstice",
+    "type": "Dress Shirt",
+    "color": "Blue",
+    "material": "Cotton",
+    "fit": "Regular Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XL",
+      "L",
+      "S",
+      "XXL"
+    ],
+    "price": 2249,
+    "rating": 3.9,
+    "stock": 46
+  },
+  {
+    "id": "SHIRT-025",
+    "category": "shirt",
+    "name": "ApexApparel Black Poplin Dress Shirt",
+    "brand": "ApexApparel",
+    "type": "Dress Shirt",
+    "color": "Black",
+    "material": "Poplin",
+    "fit": "Tailored Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "S",
+      "M",
+      "XXL",
+      "XL"
+    ],
+    "price": 1349,
+    "rating": 4,
+    "stock": 50
+  },
+  {
+    "id": "SHIRT-026",
+    "category": "shirt",
+    "name": "Monolith Blue Cotton Dress Shirt",
+    "brand": "Monolith",
+    "type": "Dress Shirt",
+    "color": "Blue",
+    "material": "Cotton",
+    "fit": "Slim Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XL",
+      "M",
+      "S",
+      "XXL"
+    ],
+    "price": 3449,
+    "rating": 3.7,
+    "stock": 46
+  },
+  {
+    "id": "SHIRT-027",
+    "category": "shirt",
+    "name": "Monolith Black Flannel Linen Shirt",
+    "brand": "Monolith",
+    "type": "Linen Shirt",
+    "color": "Black",
+    "material": "Flannel",
+    "fit": "Tailored Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "XL",
+      "S",
+      "L"
+    ],
+    "price": 1999,
+    "rating": 3.9,
+    "stock": 31
+  },
+  {
+    "id": "SHIRT-028",
+    "category": "shirt",
+    "name": "NordicWear Maroon Bamboo Blend Oxford Shirt",
+    "brand": "NordicWear",
+    "type": "Oxford Shirt",
+    "color": "Maroon",
+    "material": "Bamboo Blend",
+    "fit": "Slim Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "XL",
+      "XXL",
+      "S"
+    ],
+    "price": 2199,
+    "rating": 4,
+    "stock": 41
+  },
+  {
+    "id": "SHIRT-029",
+    "category": "shirt",
+    "name": "Veloce Brown Linen Polo Shirt",
+    "brand": "Veloce",
+    "type": "Polo Shirt",
+    "color": "Brown",
+    "material": "Linen",
+    "fit": "Tailored Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "L",
+      "XL",
+      "M",
+      "S",
+      "XXL"
+    ],
+    "price": 2599,
+    "rating": 4.5,
+    "stock": 9
+  },
+  {
+    "id": "SHIRT-030",
+    "category": "shirt",
+    "name": "Kova Black Cotton Henley Shirt",
+    "brand": "Kova",
+    "type": "Henley Shirt",
+    "color": "Black",
+    "material": "Cotton",
+    "fit": "Slim Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "M",
+      "XL",
+      "S",
+      "L",
+      "XXL"
+    ],
+    "price": 1299,
+    "rating": 3.7,
+    "stock": 50
+  },
+  {
+    "id": "SHIRT-031",
+    "category": "shirt",
+    "name": "Kova Maroon Poplin Flannel Shirt",
+    "brand": "Kova",
+    "type": "Flannel Shirt",
+    "color": "Maroon",
+    "material": "Poplin",
+    "fit": "Relaxed Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "M",
+      "L",
+      "XXL",
+      "S",
+      "XL"
+    ],
+    "price": 1899,
+    "rating": 4.3,
+    "stock": 38
+  },
+  {
+    "id": "SHIRT-032",
+    "category": "shirt",
+    "name": "CrestLine Beige Poplin Henley Shirt",
+    "brand": "CrestLine",
+    "type": "Henley Shirt",
+    "color": "Beige",
+    "material": "Poplin",
+    "fit": "Regular Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "M",
+      "XXL",
+      "XL"
+    ],
+    "price": 699,
+    "rating": 4,
+    "stock": 49
+  },
+  {
+    "id": "SHIRT-033",
+    "category": "shirt",
+    "name": "Solstice Blue Poplin Henley Shirt",
+    "brand": "Solstice",
+    "type": "Henley Shirt",
+    "color": "Blue",
+    "material": "Poplin",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "M",
+      "XL"
+    ],
+    "price": 949,
+    "rating": 3.7,
+    "stock": 37
+  },
+  {
+    "id": "SHIRT-034",
+    "category": "shirt",
+    "name": "NordicWear Blue Flannel Oxford Shirt",
+    "brand": "NordicWear",
+    "type": "Oxford Shirt",
+    "color": "Blue",
+    "material": "Flannel",
+    "fit": "Slim Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "M",
+      "S",
+      "L",
+      "XXL"
+    ],
+    "price": 1399,
+    "rating": 3.8,
+    "stock": 46
+  },
+  {
+    "id": "SHIRT-035",
+    "category": "shirt",
+    "name": "UrbanCraft Blue Poly-Cotton Linen Shirt",
+    "brand": "UrbanCraft",
+    "type": "Linen Shirt",
+    "color": "Blue",
+    "material": "Poly-Cotton",
+    "fit": "Regular Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "L",
+      "XXL",
+      "XL",
+      "S"
+    ],
+    "price": 3399,
+    "rating": 4.3,
+    "stock": 18
+  },
+  {
+    "id": "SHIRT-036",
+    "category": "shirt",
+    "name": "NordicWear Maroon Poly-Cotton Oxford Shirt",
+    "brand": "NordicWear",
+    "type": "Oxford Shirt",
+    "color": "Maroon",
+    "material": "Poly-Cotton",
+    "fit": "Tailored Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "L",
+      "M",
+      "XXL"
+    ],
+    "price": 1949,
+    "rating": 4.9,
+    "stock": 22
+  },
+  {
+    "id": "SHIRT-037",
+    "category": "shirt",
+    "name": "UrbanCraft Maroon Cotton Linen Shirt",
+    "brand": "UrbanCraft",
+    "type": "Linen Shirt",
+    "color": "Maroon",
+    "material": "Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XL",
+      "M",
+      "S"
+    ],
+    "price": 2999,
+    "rating": 4.3,
+    "stock": 25
+  },
+  {
+    "id": "SHIRT-038",
+    "category": "shirt",
+    "name": "Kova Black Cotton Linen Shirt",
+    "brand": "Kova",
+    "type": "Linen Shirt",
+    "color": "Black",
+    "material": "Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "M",
+      "XL"
+    ],
+    "price": 2049,
+    "rating": 3.9,
+    "stock": 21
+  },
+  {
+    "id": "SHIRT-039",
+    "category": "shirt",
+    "name": "UrbanCraft Blue Cotton Linen Shirt",
+    "brand": "UrbanCraft",
+    "type": "Linen Shirt",
+    "color": "Blue",
+    "material": "Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XL",
+      "M",
+      "L",
+      "XXL"
+    ],
+    "price": 1699,
+    "rating": 4.6,
+    "stock": 18
+  },
+  {
+    "id": "SHIRT-040",
+    "category": "shirt",
+    "name": "NordicWear Charcoal Flannel Henley Shirt",
+    "brand": "NordicWear",
+    "type": "Henley Shirt",
+    "color": "Charcoal",
+    "material": "Flannel",
+    "fit": "Regular Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "S",
+      "L",
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "price": 3299,
+    "rating": 3.7,
+    "stock": 49
+  },
+  {
+    "id": "SHIRT-041",
+    "category": "shirt",
+    "name": "ApexApparel Black Poly-Cotton Henley Shirt",
+    "brand": "ApexApparel",
+    "type": "Henley Shirt",
+    "color": "Black",
+    "material": "Poly-Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "L",
+      "XXL",
+      "XL"
+    ],
+    "price": 2949,
+    "rating": 3.8,
+    "stock": 47
+  },
+  {
+    "id": "SHIRT-042",
+    "category": "shirt",
+    "name": "UrbanCraft Blue Poly-Cotton Polo Shirt",
+    "brand": "UrbanCraft",
+    "type": "Polo Shirt",
+    "color": "Blue",
+    "material": "Poly-Cotton",
+    "fit": "Tailored Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "S",
+      "XL",
+      "XXL",
+      "L",
+      "M"
+    ],
+    "price": 2999,
+    "rating": 4.5,
+    "stock": 26
+  },
+  {
+    "id": "SHIRT-043",
+    "category": "shirt",
+    "name": "NordicWear Brown Poly-Cotton Flannel Shirt",
+    "brand": "NordicWear",
+    "type": "Flannel Shirt",
+    "color": "Brown",
+    "material": "Poly-Cotton",
+    "fit": "Tailored Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "S",
+      "XXL",
+      "XL",
+      "M",
+      "L"
+    ],
+    "price": 1499,
+    "rating": 3.6,
+    "stock": 42
+  },
+  {
+    "id": "SHIRT-044",
+    "category": "shirt",
+    "name": "CrestLine Charcoal Bamboo Blend Linen Shirt",
+    "brand": "CrestLine",
+    "type": "Linen Shirt",
+    "color": "Charcoal",
+    "material": "Bamboo Blend",
+    "fit": "Regular Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "M",
+      "XXL",
+      "XL",
+      "L"
+    ],
+    "price": 3099,
+    "rating": 4,
+    "stock": 47
+  },
+  {
+    "id": "SHIRT-045",
+    "category": "shirt",
+    "name": "Monolith Black Poly-Cotton Oxford Shirt",
+    "brand": "Monolith",
+    "type": "Oxford Shirt",
+    "color": "Black",
+    "material": "Poly-Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "S",
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "price": 1149,
+    "rating": 3.6,
+    "stock": 43
+  },
+  {
+    "id": "SHIRT-046",
+    "category": "shirt",
+    "name": "CrestLine Black Bamboo Blend Dress Shirt",
+    "brand": "CrestLine",
+    "type": "Dress Shirt",
+    "color": "Black",
+    "material": "Bamboo Blend",
+    "fit": "Slim Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "M",
+      "S",
+      "L"
+    ],
+    "price": 1599,
+    "rating": 4.3,
+    "stock": 5
+  },
+  {
+    "id": "SHIRT-047",
+    "category": "shirt",
+    "name": "Kova Black Flannel Dress Shirt",
+    "brand": "Kova",
+    "type": "Dress Shirt",
+    "color": "Black",
+    "material": "Flannel",
+    "fit": "Tailored Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "M",
+      "XL",
+      "S",
+      "XXL"
+    ],
+    "price": 999,
+    "rating": 4.9,
+    "stock": 11
+  },
+  {
+    "id": "SHIRT-048",
+    "category": "shirt",
+    "name": "NordicWear Olive Poplin Linen Shirt",
+    "brand": "NordicWear",
+    "type": "Linen Shirt",
+    "color": "Olive",
+    "material": "Poplin",
+    "fit": "Relaxed Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XL",
+      "L",
+      "XXL"
+    ],
+    "price": 1099,
+    "rating": 4.6,
+    "stock": 17
+  },
+  {
+    "id": "SHIRT-049",
+    "category": "shirt",
+    "name": "Kova Beige Bamboo Blend Polo Shirt",
+    "brand": "Kova",
+    "type": "Polo Shirt",
+    "color": "Beige",
+    "material": "Bamboo Blend",
+    "fit": "Relaxed Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "S",
+      "M"
+    ],
+    "price": 2399,
+    "rating": 4.8,
+    "stock": 14
+  },
+  {
+    "id": "SHIRT-050",
+    "category": "shirt",
+    "name": "UrbanCraft Navy Bamboo Blend Linen Shirt",
+    "brand": "UrbanCraft",
+    "type": "Linen Shirt",
+    "color": "Navy",
+    "material": "Bamboo Blend",
+    "fit": "Tailored Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "M",
+      "S",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 2549,
+    "rating": 4.1,
+    "stock": 7
+  },
+  {
+    "id": "SHIRT-051",
+    "category": "shirt",
+    "name": "Monolith Black Bamboo Blend Linen Shirt",
+    "brand": "Monolith",
+    "type": "Linen Shirt",
+    "color": "Black",
+    "material": "Bamboo Blend",
+    "fit": "Regular Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XXL",
+      "S",
+      "M",
+      "XL",
+      "L"
+    ],
+    "price": 3099,
+    "rating": 4.4,
+    "stock": 36
+  },
+  {
+    "id": "SHIRT-052",
+    "category": "shirt",
+    "name": "CrestLine Navy Flannel Henley Shirt",
+    "brand": "CrestLine",
+    "type": "Henley Shirt",
+    "color": "Navy",
+    "material": "Flannel",
+    "fit": "Tailored Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "L",
+      "M",
+      "XXL",
+      "XL",
+      "S"
+    ],
+    "price": 1049,
+    "rating": 3.5,
+    "stock": 35
+  },
+  {
+    "id": "SHIRT-053",
+    "category": "shirt",
+    "name": "Kova Navy Flannel Polo Shirt",
+    "brand": "Kova",
+    "type": "Polo Shirt",
+    "color": "Navy",
+    "material": "Flannel",
+    "fit": "Regular Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XL",
+      "S",
+      "L",
+      "XXL"
+    ],
+    "price": 2999,
+    "rating": 4.7,
+    "stock": 48
+  },
+  {
+    "id": "SHIRT-054",
+    "category": "shirt",
+    "name": "CrestLine Navy Poplin Flannel Shirt",
+    "brand": "CrestLine",
+    "type": "Flannel Shirt",
+    "color": "Navy",
+    "material": "Poplin",
+    "fit": "Tailored Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ],
+    "price": 749,
+    "rating": 3.7,
+    "stock": 44
+  },
+  {
+    "id": "SHIRT-055",
+    "category": "shirt",
+    "name": "Veloce Maroon Cotton Dress Shirt",
+    "brand": "Veloce",
+    "type": "Dress Shirt",
+    "color": "Maroon",
+    "material": "Cotton",
+    "fit": "Regular Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "L"
+    ],
+    "price": 2399,
+    "rating": 4.6,
+    "stock": 28
+  },
+  {
+    "id": "SHIRT-056",
+    "category": "shirt",
+    "name": "NordicWear Navy Poplin Oxford Shirt",
+    "brand": "NordicWear",
+    "type": "Oxford Shirt",
+    "color": "Navy",
+    "material": "Poplin",
+    "fit": "Tailored Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "L",
+      "S"
+    ],
+    "price": 3099,
+    "rating": 4.3,
+    "stock": 32
+  },
+  {
+    "id": "SHIRT-057",
+    "category": "shirt",
+    "name": "Monolith Brown Flannel Linen Shirt",
+    "brand": "Monolith",
+    "type": "Linen Shirt",
+    "color": "Brown",
+    "material": "Flannel",
+    "fit": "Tailored Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "S",
+      "M",
+      "XXL",
+      "XL"
+    ],
+    "price": 2399,
+    "rating": 4.6,
+    "stock": 45
+  },
+  {
+    "id": "SHIRT-058",
+    "category": "shirt",
+    "name": "Veloce Maroon Poplin Oxford Shirt",
+    "brand": "Veloce",
+    "type": "Oxford Shirt",
+    "color": "Maroon",
+    "material": "Poplin",
+    "fit": "Tailored Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "S",
+      "XL",
+      "XXL",
+      "L"
+    ],
+    "price": 2899,
+    "rating": 4.8,
+    "stock": 34
+  },
+  {
+    "id": "SHIRT-059",
+    "category": "shirt",
+    "name": "NordicWear White Bamboo Blend Polo Shirt",
+    "brand": "NordicWear",
+    "type": "Polo Shirt",
+    "color": "White",
+    "material": "Bamboo Blend",
+    "fit": "Slim Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XXL",
+      "S",
+      "M",
+      "XL",
+      "L"
+    ],
+    "price": 3499,
+    "rating": 4,
+    "stock": 11
+  },
+  {
+    "id": "SHIRT-060",
+    "category": "shirt",
+    "name": "Solstice Brown Cotton Linen Shirt",
+    "brand": "Solstice",
+    "type": "Linen Shirt",
+    "color": "Brown",
+    "material": "Cotton",
+    "fit": "Regular Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XXL",
+      "L",
+      "XL",
+      "M"
+    ],
+    "price": 2199,
+    "rating": 4.4,
+    "stock": 46
+  },
+  {
+    "id": "SHIRT-061",
+    "category": "shirt",
+    "name": "ApexApparel Charcoal Poplin Flannel Shirt",
+    "brand": "ApexApparel",
+    "type": "Flannel Shirt",
+    "color": "Charcoal",
+    "material": "Poplin",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "S",
+      "XL",
+      "XXL",
+      "L"
+    ],
+    "price": 2399,
+    "rating": 3.7,
+    "stock": 34
+  },
+  {
+    "id": "SHIRT-062",
+    "category": "shirt",
+    "name": "CrestLine Blue Bamboo Blend Flannel Shirt",
+    "brand": "CrestLine",
+    "type": "Flannel Shirt",
+    "color": "Blue",
+    "material": "Bamboo Blend",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "S",
+      "L",
+      "M"
+    ],
+    "price": 3299,
+    "rating": 4.5,
+    "stock": 44
+  },
+  {
+    "id": "SHIRT-063",
+    "category": "shirt",
+    "name": "Monolith Maroon Poly-Cotton Henley Shirt",
+    "brand": "Monolith",
+    "type": "Henley Shirt",
+    "color": "Maroon",
+    "material": "Poly-Cotton",
+    "fit": "Regular Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "price": 3149,
+    "rating": 4.5,
+    "stock": 32
+  },
+  {
+    "id": "SHIRT-064",
+    "category": "shirt",
+    "name": "CrestLine Beige Poly-Cotton Oxford Shirt",
+    "brand": "CrestLine",
+    "type": "Oxford Shirt",
+    "color": "Beige",
+    "material": "Poly-Cotton",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "S",
+      "M",
+      "XL"
+    ],
+    "price": 2699,
+    "rating": 3.9,
+    "stock": 48
+  },
+  {
+    "id": "SHIRT-065",
+    "category": "shirt",
+    "name": "ApexApparel Navy Poplin Oxford Shirt",
+    "brand": "ApexApparel",
+    "type": "Oxford Shirt",
+    "color": "Navy",
+    "material": "Poplin",
+    "fit": "Tailored Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XL",
+      "XXL",
+      "M",
+      "S",
+      "L"
+    ],
+    "price": 1499,
+    "rating": 3.8,
+    "stock": 41
+  },
+  {
+    "id": "SHIRT-066",
+    "category": "shirt",
+    "name": "Kova Maroon Poly-Cotton Oxford Shirt",
+    "brand": "Kova",
+    "type": "Oxford Shirt",
+    "color": "Maroon",
+    "material": "Poly-Cotton",
+    "fit": "Slim Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XL",
+      "XXL",
+      "L"
+    ],
+    "price": 1649,
+    "rating": 3.5,
+    "stock": 5
+  },
+  {
+    "id": "SHIRT-067",
+    "category": "shirt",
+    "name": "CrestLine Maroon Cotton Linen Shirt",
+    "brand": "CrestLine",
+    "type": "Linen Shirt",
+    "color": "Maroon",
+    "material": "Cotton",
+    "fit": "Tailored Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "L",
+      "S",
+      "XL"
+    ],
+    "price": 2799,
+    "rating": 4.9,
+    "stock": 15
+  },
+  {
+    "id": "SHIRT-068",
+    "category": "shirt",
+    "name": "Monolith Black Flannel Linen Shirt",
+    "brand": "Monolith",
+    "type": "Linen Shirt",
+    "color": "Black",
+    "material": "Flannel",
+    "fit": "Tailored Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "M",
+      "S",
+      "XXL",
+      "XL",
+      "L"
+    ],
+    "price": 2199,
+    "rating": 4.8,
+    "stock": 37
+  },
+  {
+    "id": "SHIRT-069",
+    "category": "shirt",
+    "name": "Monolith Olive Cotton Henley Shirt",
+    "brand": "Monolith",
+    "type": "Henley Shirt",
+    "color": "Olive",
+    "material": "Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XXL",
+      "L",
+      "XL",
+      "M",
+      "S"
+    ],
+    "price": 1149,
+    "rating": 4.9,
+    "stock": 49
+  },
+  {
+    "id": "SHIRT-070",
+    "category": "shirt",
+    "name": "Veloce Olive Cotton Linen Shirt",
+    "brand": "Veloce",
+    "type": "Linen Shirt",
+    "color": "Olive",
+    "material": "Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "S",
+      "XL",
+      "L",
+      "XXL",
+      "M"
+    ],
+    "price": 1949,
+    "rating": 4.7,
+    "stock": 15
+  },
+  {
+    "id": "SHIRT-071",
+    "category": "shirt",
+    "name": "NordicWear Beige Flannel Linen Shirt",
+    "brand": "NordicWear",
+    "type": "Linen Shirt",
+    "color": "Beige",
+    "material": "Flannel",
+    "fit": "Tailored Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "XL",
+      "S",
+      "L"
+    ],
+    "price": 1149,
+    "rating": 4,
+    "stock": 47
+  },
+  {
+    "id": "SHIRT-072",
+    "category": "shirt",
+    "name": "UrbanCraft White Linen Polo Shirt",
+    "brand": "UrbanCraft",
+    "type": "Polo Shirt",
+    "color": "White",
+    "material": "Linen",
+    "fit": "Tailored Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "XXL",
+      "L",
+      "M",
+      "S",
+      "XL"
+    ],
+    "price": 2749,
+    "rating": 4.4,
+    "stock": 38
+  },
+  {
+    "id": "SHIRT-073",
+    "category": "shirt",
+    "name": "NordicWear Brown Cotton Henley Shirt",
+    "brand": "NordicWear",
+    "type": "Henley Shirt",
+    "color": "Brown",
+    "material": "Cotton",
+    "fit": "Tailored Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "S",
+      "XL",
+      "L",
+      "M",
+      "XXL"
+    ],
+    "price": 2299,
+    "rating": 4.6,
+    "stock": 33
+  },
+  {
+    "id": "SHIRT-074",
+    "category": "shirt",
+    "name": "ApexApparel White Cotton Polo Shirt",
+    "brand": "ApexApparel",
+    "type": "Polo Shirt",
+    "color": "White",
+    "material": "Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "XL",
+      "S",
+      "XXL",
+      "L"
+    ],
+    "price": 949,
+    "rating": 4.7,
+    "stock": 28
+  },
+  {
+    "id": "SHIRT-075",
+    "category": "shirt",
+    "name": "Monolith Maroon Poly-Cotton Henley Shirt",
+    "brand": "Monolith",
+    "type": "Henley Shirt",
+    "color": "Maroon",
+    "material": "Poly-Cotton",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XL",
+      "L",
+      "S",
+      "XXL"
+    ],
+    "price": 3449,
+    "rating": 4.7,
+    "stock": 48
+  },
+  {
+    "id": "SHIRT-076",
+    "category": "shirt",
+    "name": "Veloce Blue Bamboo Blend Oxford Shirt",
+    "brand": "Veloce",
+    "type": "Oxford Shirt",
+    "color": "Blue",
+    "material": "Bamboo Blend",
+    "fit": "Relaxed Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "XL",
+      "L"
+    ],
+    "price": 3499,
+    "rating": 4.9,
+    "stock": 28
+  },
+  {
+    "id": "SHIRT-077",
+    "category": "shirt",
+    "name": "CrestLine Maroon Flannel Henley Shirt",
+    "brand": "CrestLine",
+    "type": "Henley Shirt",
+    "color": "Maroon",
+    "material": "Flannel",
+    "fit": "Relaxed Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "S",
+      "M",
+      "XL",
+      "L",
+      "XXL"
+    ],
+    "price": 749,
+    "rating": 4.7,
+    "stock": 14
+  },
+  {
+    "id": "SHIRT-078",
+    "category": "shirt",
+    "name": "Kova White Flannel Oxford Shirt",
+    "brand": "Kova",
+    "type": "Oxford Shirt",
+    "color": "White",
+    "material": "Flannel",
+    "fit": "Regular Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XXL",
+      "XL",
+      "L",
+      "S",
+      "M"
+    ],
+    "price": 1749,
+    "rating": 4.9,
+    "stock": 31
+  },
+  {
+    "id": "SHIRT-079",
+    "category": "shirt",
+    "name": "NordicWear White Linen Henley Shirt",
+    "brand": "NordicWear",
+    "type": "Henley Shirt",
+    "color": "White",
+    "material": "Linen",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "S",
+      "XXL",
+      "L"
+    ],
+    "price": 1249,
+    "rating": 3.9,
+    "stock": 12
+  },
+  {
+    "id": "SHIRT-080",
+    "category": "shirt",
+    "name": "Monolith Charcoal Flannel Linen Shirt",
+    "brand": "Monolith",
+    "type": "Linen Shirt",
+    "color": "Charcoal",
+    "material": "Flannel",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "L",
+      "S",
+      "XL",
+      "XXL"
+    ],
+    "price": 999,
+    "rating": 4.8,
+    "stock": 13
+  },
+  {
+    "id": "SHIRT-081",
+    "category": "shirt",
+    "name": "Solstice Brown Poplin Oxford Shirt",
+    "brand": "Solstice",
+    "type": "Oxford Shirt",
+    "color": "Brown",
+    "material": "Poplin",
+    "fit": "Regular Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "XL",
+      "L",
+      "XXL"
+    ],
+    "price": 1049,
+    "rating": 4.3,
+    "stock": 44
+  },
+  {
+    "id": "SHIRT-082",
+    "category": "shirt",
+    "name": "Solstice Maroon Bamboo Blend Polo Shirt",
+    "brand": "Solstice",
+    "type": "Polo Shirt",
+    "color": "Maroon",
+    "material": "Bamboo Blend",
+    "fit": "Regular Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "XL",
+      "S"
+    ],
+    "price": 2699,
+    "rating": 4.7,
+    "stock": 50
+  },
+  {
+    "id": "SHIRT-083",
+    "category": "shirt",
+    "name": "NordicWear Navy Cotton Dress Shirt",
+    "brand": "NordicWear",
+    "type": "Dress Shirt",
+    "color": "Navy",
+    "material": "Cotton",
+    "fit": "Tailored Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "XL",
+      "L",
+      "S",
+      "M"
+    ],
+    "price": 2399,
+    "rating": 3.8,
+    "stock": 23
+  },
+  {
+    "id": "SHIRT-084",
+    "category": "shirt",
+    "name": "Solstice Blue Cotton Flannel Shirt",
+    "brand": "Solstice",
+    "type": "Flannel Shirt",
+    "color": "Blue",
+    "material": "Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 2749,
+    "rating": 4.1,
+    "stock": 23
+  },
+  {
+    "id": "SHIRT-085",
+    "category": "shirt",
+    "name": "Veloce Grey Poplin Oxford Shirt",
+    "brand": "Veloce",
+    "type": "Oxford Shirt",
+    "color": "Grey",
+    "material": "Poplin",
+    "fit": "Tailored Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "S",
+      "XXL",
+      "XL"
+    ],
+    "price": 1449,
+    "rating": 4.7,
+    "stock": 37
+  },
+  {
+    "id": "SHIRT-086",
+    "category": "shirt",
+    "name": "Kova Beige Cotton Dress Shirt",
+    "brand": "Kova",
+    "type": "Dress Shirt",
+    "color": "Beige",
+    "material": "Cotton",
+    "fit": "Regular Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XL",
+      "XXL",
+      "M",
+      "L",
+      "S"
+    ],
+    "price": 1699,
+    "rating": 4.7,
+    "stock": 17
+  },
+  {
+    "id": "SHIRT-087",
+    "category": "shirt",
+    "name": "NordicWear Blue Poly-Cotton Oxford Shirt",
+    "brand": "NordicWear",
+    "type": "Oxford Shirt",
+    "color": "Blue",
+    "material": "Poly-Cotton",
+    "fit": "Tailored Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XL",
+      "L",
+      "XXL",
+      "M",
+      "S"
+    ],
+    "price": 2799,
+    "rating": 3.9,
+    "stock": 41
+  },
+  {
+    "id": "SHIRT-088",
+    "category": "shirt",
+    "name": "Veloce Navy Bamboo Blend Flannel Shirt",
+    "brand": "Veloce",
+    "type": "Flannel Shirt",
+    "color": "Navy",
+    "material": "Bamboo Blend",
+    "fit": "Regular Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XXL",
+      "XL",
+      "L",
+      "M",
+      "S"
+    ],
+    "price": 2649,
+    "rating": 3.9,
+    "stock": 8
+  },
+  {
+    "id": "SHIRT-089",
+    "category": "shirt",
+    "name": "UrbanCraft Blue Cotton Oxford Shirt",
+    "brand": "UrbanCraft",
+    "type": "Oxford Shirt",
+    "color": "Blue",
+    "material": "Cotton",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "M",
+      "S",
+      "L",
+      "XXL",
+      "XL"
+    ],
+    "price": 2899,
+    "rating": 3.8,
+    "stock": 33
+  },
+  {
+    "id": "SHIRT-090",
+    "category": "shirt",
+    "name": "Kova Brown Cotton Dress Shirt",
+    "brand": "Kova",
+    "type": "Dress Shirt",
+    "color": "Brown",
+    "material": "Cotton",
+    "fit": "Regular Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "XL",
+      "M",
+      "XXL"
+    ],
+    "price": 2149,
+    "rating": 4.4,
+    "stock": 32
+  },
+  {
+    "id": "SHIRT-091",
+    "category": "shirt",
+    "name": "Veloce Navy Cotton Linen Shirt",
+    "brand": "Veloce",
+    "type": "Linen Shirt",
+    "color": "Navy",
+    "material": "Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "S",
+      "L",
+      "XL",
+      "XXL",
+      "M"
+    ],
+    "price": 1549,
+    "rating": 4.9,
+    "stock": 28
+  },
+  {
+    "id": "SHIRT-092",
+    "category": "shirt",
+    "name": "Monolith Navy Bamboo Blend Linen Shirt",
+    "brand": "Monolith",
+    "type": "Linen Shirt",
+    "color": "Navy",
+    "material": "Bamboo Blend",
+    "fit": "Regular Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "XL",
+      "XXL",
+      "L"
+    ],
+    "price": 2849,
+    "rating": 4.6,
+    "stock": 15
+  },
+  {
+    "id": "SHIRT-093",
+    "category": "shirt",
+    "name": "Monolith Maroon Poplin Henley Shirt",
+    "brand": "Monolith",
+    "type": "Henley Shirt",
+    "color": "Maroon",
+    "material": "Poplin",
+    "fit": "Tailored Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "XL",
+      "L",
+      "S",
+      "M",
+      "XXL"
+    ],
+    "price": 2449,
+    "rating": 3.6,
+    "stock": 14
+  },
+  {
+    "id": "SHIRT-094",
+    "category": "shirt",
+    "name": "NordicWear Charcoal Linen Linen Shirt",
+    "brand": "NordicWear",
+    "type": "Linen Shirt",
+    "color": "Charcoal",
+    "material": "Linen",
+    "fit": "Regular Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XL",
+      "S",
+      "M",
+      "XXL",
+      "L"
+    ],
+    "price": 899,
+    "rating": 4.6,
+    "stock": 37
+  },
+  {
+    "id": "SHIRT-095",
+    "category": "shirt",
+    "name": "Kova Grey Cotton Flannel Shirt",
+    "brand": "Kova",
+    "type": "Flannel Shirt",
+    "color": "Grey",
+    "material": "Cotton",
+    "fit": "Tailored Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "XL",
+      "L",
+      "XXL",
+      "S",
+      "M"
+    ],
+    "price": 999,
+    "rating": 4.2,
+    "stock": 21
+  },
+  {
+    "id": "SHIRT-096",
+    "category": "shirt",
+    "name": "ApexApparel Navy Linen Henley Shirt",
+    "brand": "ApexApparel",
+    "type": "Henley Shirt",
+    "color": "Navy",
+    "material": "Linen",
+    "fit": "Slim Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "M",
+      "XL"
+    ],
+    "price": 2299,
+    "rating": 4.8,
+    "stock": 8
+  },
+  {
+    "id": "SHIRT-097",
+    "category": "shirt",
+    "name": "Solstice Blue Linen Linen Shirt",
+    "brand": "Solstice",
+    "type": "Linen Shirt",
+    "color": "Blue",
+    "material": "Linen",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XL",
+      "XXL",
+      "M",
+      "S"
+    ],
+    "price": 1449,
+    "rating": 4.7,
+    "stock": 38
+  },
+  {
+    "id": "SHIRT-098",
+    "category": "shirt",
+    "name": "CrestLine Charcoal Cotton Henley Shirt",
+    "brand": "CrestLine",
+    "type": "Henley Shirt",
+    "color": "Charcoal",
+    "material": "Cotton",
+    "fit": "Slim Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "M",
+      "S",
+      "L"
+    ],
+    "price": 2899,
+    "rating": 4.2,
+    "stock": 9
+  },
+  {
+    "id": "SHIRT-099",
+    "category": "shirt",
+    "name": "Solstice Olive Bamboo Blend Oxford Shirt",
+    "brand": "Solstice",
+    "type": "Oxford Shirt",
+    "color": "Olive",
+    "material": "Bamboo Blend",
+    "fit": "Relaxed Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "M",
+      "S",
+      "XL",
+      "XXL"
+    ],
+    "price": 2299,
+    "rating": 4.2,
+    "stock": 46
+  },
+  {
+    "id": "SHIRT-100",
+    "category": "shirt",
+    "name": "Veloce Beige Flannel Oxford Shirt",
+    "brand": "Veloce",
+    "type": "Oxford Shirt",
+    "color": "Beige",
+    "material": "Flannel",
+    "fit": "Relaxed Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "L",
+      "XL",
+      "M"
+    ],
+    "price": 3249,
+    "rating": 4.3,
+    "stock": 12
+  },
+  {
+    "id": "PANT-001",
+    "category": "pant",
+    "name": "Veloce Maroon Linen Blend Corduroy Pants",
+    "brand": "Veloce",
+    "type": "Corduroy Pants",
+    "color": "Maroon",
+    "material": "Linen Blend",
+    "fit": "Straight Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "S",
+      "XXL",
+      "XL",
+      "L"
+    ],
+    "price": 3849,
+    "rating": 3.8,
+    "stock": 44
+  },
+  {
+    "id": "PANT-002",
+    "category": "pant",
+    "name": "Monolith Maroon Linen Blend Corduroy Pants",
+    "brand": "Monolith",
+    "type": "Corduroy Pants",
+    "color": "Maroon",
+    "material": "Linen Blend",
+    "fit": "Tapered Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "XL"
+    ],
+    "price": 3899,
+    "rating": 4.4,
+    "stock": 40
+  },
+  {
+    "id": "PANT-003",
+    "category": "pant",
+    "name": "Solstice Brown Denim Chinos",
+    "brand": "Solstice",
+    "type": "Chinos",
+    "color": "Brown",
+    "material": "Denim",
+    "fit": "Tapered Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XXL",
+      "S",
+      "XL",
+      "M",
+      "L"
+    ],
+    "price": 1049,
+    "rating": 4.2,
+    "stock": 16
+  },
+  {
+    "id": "PANT-004",
+    "category": "pant",
+    "name": "Monolith White Denim Joggers",
+    "brand": "Monolith",
+    "type": "Joggers",
+    "color": "White",
+    "material": "Denim",
+    "fit": "Relaxed Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "M",
+      "XL",
+      "XXL",
+      "L",
+      "S"
+    ],
+    "price": 1249,
+    "rating": 5,
+    "stock": 23
+  },
+  {
+    "id": "PANT-005",
+    "category": "pant",
+    "name": "CrestLine Navy Stretch Cotton Cargo Pants",
+    "brand": "CrestLine",
+    "type": "Cargo Pants",
+    "color": "Navy",
+    "material": "Stretch Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "S",
+      "M",
+      "XL",
+      "L"
+    ],
+    "price": 2799,
+    "rating": 3.8,
+    "stock": 16
+  },
+  {
+    "id": "PANT-006",
+    "category": "pant",
+    "name": "NordicWear Olive Stretch Cotton Cargo Pants",
+    "brand": "NordicWear",
+    "type": "Cargo Pants",
+    "color": "Olive",
+    "material": "Stretch Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "L",
+      "S",
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "price": 2299,
+    "rating": 4.7,
+    "stock": 19
+  },
+  {
+    "id": "PANT-007",
+    "category": "pant",
+    "name": "Monolith Maroon Linen Blend Chinos",
+    "brand": "Monolith",
+    "type": "Chinos",
+    "color": "Maroon",
+    "material": "Linen Blend",
+    "fit": "Straight Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "S",
+      "XL"
+    ],
+    "price": 1599,
+    "rating": 4.6,
+    "stock": 21
+  },
+  {
+    "id": "PANT-008",
+    "category": "pant",
+    "name": "Monolith Navy Corduroy Slim Jeans",
+    "brand": "Monolith",
+    "type": "Slim Jeans",
+    "color": "Navy",
+    "material": "Corduroy",
+    "fit": "Tapered Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "L",
+      "XL",
+      "XXL",
+      "S",
+      "M"
+    ],
+    "price": 2149,
+    "rating": 4,
+    "stock": 10
+  },
+  {
+    "id": "PANT-009",
+    "category": "pant",
+    "name": "NordicWear Olive Poly-Viscose Chinos",
+    "brand": "NordicWear",
+    "type": "Chinos",
+    "color": "Olive",
+    "material": "Poly-Viscose",
+    "fit": "Slim Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "L",
+      "M",
+      "S",
+      "XXL",
+      "XL"
+    ],
+    "price": 2999,
+    "rating": 4.7,
+    "stock": 39
+  },
+  {
+    "id": "PANT-010",
+    "category": "pant",
+    "name": "Veloce Charcoal Stretch Cotton Cargo Pants",
+    "brand": "Veloce",
+    "type": "Cargo Pants",
+    "color": "Charcoal",
+    "material": "Stretch Cotton",
+    "fit": "Straight Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XL",
+      "S",
+      "L"
+    ],
+    "price": 2199,
+    "rating": 4.8,
+    "stock": 35
+  },
+  {
+    "id": "PANT-011",
+    "category": "pant",
+    "name": "UrbanCraft Charcoal Poly-Viscose Cargo Pants",
+    "brand": "UrbanCraft",
+    "type": "Cargo Pants",
+    "color": "Charcoal",
+    "material": "Poly-Viscose",
+    "fit": "Straight Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "XL",
+      "M",
+      "L",
+      "XXL"
+    ],
+    "price": 3249,
+    "rating": 4.2,
+    "stock": 40
+  },
+  {
+    "id": "PANT-012",
+    "category": "pant",
+    "name": "Kova Maroon Denim Joggers",
+    "brand": "Kova",
+    "type": "Joggers",
+    "color": "Maroon",
+    "material": "Denim",
+    "fit": "Slim Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "XXL",
+      "XL",
+      "M"
+    ],
+    "price": 2699,
+    "rating": 4.3,
+    "stock": 20
+  },
+  {
+    "id": "PANT-013",
+    "category": "pant",
+    "name": "NordicWear White Linen Blend Formal Trousers",
+    "brand": "NordicWear",
+    "type": "Formal Trousers",
+    "color": "White",
+    "material": "Linen Blend",
+    "fit": "Slim Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "S",
+      "XL",
+      "XXL",
+      "L"
+    ],
+    "price": 1299,
+    "rating": 4.7,
+    "stock": 48
+  },
+  {
+    "id": "PANT-014",
+    "category": "pant",
+    "name": "Monolith Navy Poly-Viscose Slim Jeans",
+    "brand": "Monolith",
+    "type": "Slim Jeans",
+    "color": "Navy",
+    "material": "Poly-Viscose",
+    "fit": "Slim Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 1399,
+    "rating": 3.8,
+    "stock": 8
+  },
+  {
+    "id": "PANT-015",
+    "category": "pant",
+    "name": "ApexApparel Brown Poly-Viscose Slim Jeans",
+    "brand": "ApexApparel",
+    "type": "Slim Jeans",
+    "color": "Brown",
+    "material": "Poly-Viscose",
+    "fit": "Straight Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "XL",
+      "S",
+      "L"
+    ],
+    "price": 4349,
+    "rating": 3.6,
+    "stock": 37
+  },
+  {
+    "id": "PANT-016",
+    "category": "pant",
+    "name": "Kova Beige Cotton Twill Slim Jeans",
+    "brand": "Kova",
+    "type": "Slim Jeans",
+    "color": "Beige",
+    "material": "Cotton Twill",
+    "fit": "Tapered Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "L",
+      "XL",
+      "XXL",
+      "M"
+    ],
+    "price": 1449,
+    "rating": 4.3,
+    "stock": 28
+  },
+  {
+    "id": "PANT-017",
+    "category": "pant",
+    "name": "Solstice White Stretch Cotton Joggers",
+    "brand": "Solstice",
+    "type": "Joggers",
+    "color": "White",
+    "material": "Stretch Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XL",
+      "M",
+      "XXL",
+      "L"
+    ],
+    "price": 3749,
+    "rating": 3.6,
+    "stock": 14
+  },
+  {
+    "id": "PANT-018",
+    "category": "pant",
+    "name": "UrbanCraft Navy Corduroy Corduroy Pants",
+    "brand": "UrbanCraft",
+    "type": "Corduroy Pants",
+    "color": "Navy",
+    "material": "Corduroy",
+    "fit": "Slim Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "L",
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "price": 2249,
+    "rating": 4.6,
+    "stock": 30
+  },
+  {
+    "id": "PANT-019",
+    "category": "pant",
+    "name": "Solstice White Cotton Twill Chinos",
+    "brand": "Solstice",
+    "type": "Chinos",
+    "color": "White",
+    "material": "Cotton Twill",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "price": 3349,
+    "rating": 3.6,
+    "stock": 48
+  },
+  {
+    "id": "PANT-020",
+    "category": "pant",
+    "name": "CrestLine Charcoal Corduroy Joggers",
+    "brand": "CrestLine",
+    "type": "Joggers",
+    "color": "Charcoal",
+    "material": "Corduroy",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "L",
+      "XL",
+      "XXL",
+      "S",
+      "M"
+    ],
+    "price": 1799,
+    "rating": 4.4,
+    "stock": 13
+  },
+  {
+    "id": "PANT-021",
+    "category": "pant",
+    "name": "NordicWear Olive Cotton Twill Chinos",
+    "brand": "NordicWear",
+    "type": "Chinos",
+    "color": "Olive",
+    "material": "Cotton Twill",
+    "fit": "Tapered Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "price": 3599,
+    "rating": 4.8,
+    "stock": 46
+  },
+  {
+    "id": "PANT-022",
+    "category": "pant",
+    "name": "Kova Maroon Stretch Cotton Cargo Pants",
+    "brand": "Kova",
+    "type": "Cargo Pants",
+    "color": "Maroon",
+    "material": "Stretch Cotton",
+    "fit": "Slim Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "M",
+      "L",
+      "S",
+      "XXL",
+      "XL"
+    ],
+    "price": 2849,
+    "rating": 4.6,
+    "stock": 9
+  },
+  {
+    "id": "PANT-023",
+    "category": "pant",
+    "name": "ApexApparel Beige Cotton Twill Cargo Pants",
+    "brand": "ApexApparel",
+    "type": "Cargo Pants",
+    "color": "Beige",
+    "material": "Cotton Twill",
+    "fit": "Relaxed Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "M",
+      "XL"
+    ],
+    "price": 1099,
+    "rating": 5,
+    "stock": 16
+  },
+  {
+    "id": "PANT-024",
+    "category": "pant",
+    "name": "CrestLine White Corduroy Slim Jeans",
+    "brand": "CrestLine",
+    "type": "Slim Jeans",
+    "color": "White",
+    "material": "Corduroy",
+    "fit": "Relaxed Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "L"
+    ],
+    "price": 3349,
+    "rating": 4.5,
+    "stock": 5
+  },
+  {
+    "id": "PANT-025",
+    "category": "pant",
+    "name": "CrestLine Beige Linen Blend Joggers",
+    "brand": "CrestLine",
+    "type": "Joggers",
+    "color": "Beige",
+    "material": "Linen Blend",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XL",
+      "M",
+      "S",
+      "XXL"
+    ],
+    "price": 1699,
+    "rating": 3.6,
+    "stock": 47
+  },
+  {
+    "id": "PANT-026",
+    "category": "pant",
+    "name": "ApexApparel Grey Linen Blend Formal Trousers",
+    "brand": "ApexApparel",
+    "type": "Formal Trousers",
+    "color": "Grey",
+    "material": "Linen Blend",
+    "fit": "Slim Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "M",
+      "S",
+      "L"
+    ],
+    "price": 2749,
+    "rating": 4,
+    "stock": 47
+  },
+  {
+    "id": "PANT-027",
+    "category": "pant",
+    "name": "Kova Brown Stretch Cotton Slim Jeans",
+    "brand": "Kova",
+    "type": "Slim Jeans",
+    "color": "Brown",
+    "material": "Stretch Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "XL",
+      "L",
+      "M",
+      "S"
+    ],
+    "price": 2349,
+    "rating": 4.4,
+    "stock": 9
+  },
+  {
+    "id": "PANT-028",
+    "category": "pant",
+    "name": "Solstice White Cotton Twill Slim Jeans",
+    "brand": "Solstice",
+    "type": "Slim Jeans",
+    "color": "White",
+    "material": "Cotton Twill",
+    "fit": "Tapered Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "S",
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "price": 2899,
+    "rating": 3.8,
+    "stock": 17
+  },
+  {
+    "id": "PANT-029",
+    "category": "pant",
+    "name": "UrbanCraft White Corduroy Corduroy Pants",
+    "brand": "UrbanCraft",
+    "type": "Corduroy Pants",
+    "color": "White",
+    "material": "Corduroy",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "XL",
+      "L",
+      "XXL",
+      "S",
+      "M"
+    ],
+    "price": 1749,
+    "rating": 4.5,
+    "stock": 46
+  },
+  {
+    "id": "PANT-030",
+    "category": "pant",
+    "name": "Veloce Beige Corduroy Chinos",
+    "brand": "Veloce",
+    "type": "Chinos",
+    "color": "Beige",
+    "material": "Corduroy",
+    "fit": "Straight Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "S",
+      "L",
+      "XXL",
+      "M"
+    ],
+    "price": 1149,
+    "rating": 4.9,
+    "stock": 50
+  },
+  {
+    "id": "PANT-031",
+    "category": "pant",
+    "name": "Monolith Charcoal Stretch Cotton Formal Trousers",
+    "brand": "Monolith",
+    "type": "Formal Trousers",
+    "color": "Charcoal",
+    "material": "Stretch Cotton",
+    "fit": "Straight Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "M",
+      "S",
+      "L"
+    ],
+    "price": 1899,
+    "rating": 4.7,
+    "stock": 9
+  },
+  {
+    "id": "PANT-032",
+    "category": "pant",
+    "name": "UrbanCraft Navy Poly-Viscose Slim Jeans",
+    "brand": "UrbanCraft",
+    "type": "Slim Jeans",
+    "color": "Navy",
+    "material": "Poly-Viscose",
+    "fit": "Relaxed Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "XL",
+      "XXL",
+      "S",
+      "M",
+      "L"
+    ],
+    "price": 1049,
+    "rating": 4.3,
+    "stock": 10
+  },
+  {
+    "id": "PANT-033",
+    "category": "pant",
+    "name": "Kova Olive Poly-Viscose Chinos",
+    "brand": "Kova",
+    "type": "Chinos",
+    "color": "Olive",
+    "material": "Poly-Viscose",
+    "fit": "Tapered Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XL",
+      "XXL",
+      "S"
+    ],
+    "price": 4399,
+    "rating": 4.3,
+    "stock": 11
+  },
+  {
+    "id": "PANT-034",
+    "category": "pant",
+    "name": "UrbanCraft Blue Corduroy Chinos",
+    "brand": "UrbanCraft",
+    "type": "Chinos",
+    "color": "Blue",
+    "material": "Corduroy",
+    "fit": "Slim Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "M",
+      "L",
+      "XXL",
+      "S"
+    ],
+    "price": 2999,
+    "rating": 4,
+    "stock": 19
+  },
+  {
+    "id": "PANT-035",
+    "category": "pant",
+    "name": "UrbanCraft Olive Linen Blend Chinos",
+    "brand": "UrbanCraft",
+    "type": "Chinos",
+    "color": "Olive",
+    "material": "Linen Blend",
+    "fit": "Slim Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "XL"
+    ],
+    "price": 1599,
+    "rating": 4,
+    "stock": 36
+  },
+  {
+    "id": "PANT-036",
+    "category": "pant",
+    "name": "Monolith White Stretch Cotton Formal Trousers",
+    "brand": "Monolith",
+    "type": "Formal Trousers",
+    "color": "White",
+    "material": "Stretch Cotton",
+    "fit": "Tapered Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "XL",
+      "XXL",
+      "M"
+    ],
+    "price": 3299,
+    "rating": 3.6,
+    "stock": 33
+  },
+  {
+    "id": "PANT-037",
+    "category": "pant",
+    "name": "NordicWear Brown Linen Blend Slim Jeans",
+    "brand": "NordicWear",
+    "type": "Slim Jeans",
+    "color": "Brown",
+    "material": "Linen Blend",
+    "fit": "Tapered Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 4249,
+    "rating": 4.5,
+    "stock": 24
+  },
+  {
+    "id": "PANT-038",
+    "category": "pant",
+    "name": "NordicWear Navy Denim Formal Trousers",
+    "brand": "NordicWear",
+    "type": "Formal Trousers",
+    "color": "Navy",
+    "material": "Denim",
+    "fit": "Tapered Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "M",
+      "XL",
+      "XXL",
+      "L"
+    ],
+    "price": 2799,
+    "rating": 4.9,
+    "stock": 12
+  },
+  {
+    "id": "PANT-039",
+    "category": "pant",
+    "name": "Kova Olive Linen Blend Corduroy Pants",
+    "brand": "Kova",
+    "type": "Corduroy Pants",
+    "color": "Olive",
+    "material": "Linen Blend",
+    "fit": "Slim Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "S",
+      "M",
+      "XXL"
+    ],
+    "price": 1199,
+    "rating": 4.4,
+    "stock": 13
+  },
+  {
+    "id": "PANT-040",
+    "category": "pant",
+    "name": "CrestLine Blue Corduroy Slim Jeans",
+    "brand": "CrestLine",
+    "type": "Slim Jeans",
+    "color": "Blue",
+    "material": "Corduroy",
+    "fit": "Slim Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "L",
+      "XL",
+      "XXL",
+      "M",
+      "S"
+    ],
+    "price": 3649,
+    "rating": 3.8,
+    "stock": 12
+  },
+  {
+    "id": "PANT-041",
+    "category": "pant",
+    "name": "Kova Olive Linen Blend Chinos",
+    "brand": "Kova",
+    "type": "Chinos",
+    "color": "Olive",
+    "material": "Linen Blend",
+    "fit": "Relaxed Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XXL",
+      "S",
+      "XL"
+    ],
+    "price": 3049,
+    "rating": 5,
+    "stock": 27
+  },
+  {
+    "id": "PANT-042",
+    "category": "pant",
+    "name": "Kova Beige Linen Blend Slim Jeans",
+    "brand": "Kova",
+    "type": "Slim Jeans",
+    "color": "Beige",
+    "material": "Linen Blend",
+    "fit": "Relaxed Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "S",
+      "M",
+      "XL"
+    ],
+    "price": 2249,
+    "rating": 3.9,
+    "stock": 6
+  },
+  {
+    "id": "PANT-043",
+    "category": "pant",
+    "name": "Monolith Brown Stretch Cotton Corduroy Pants",
+    "brand": "Monolith",
+    "type": "Corduroy Pants",
+    "color": "Brown",
+    "material": "Stretch Cotton",
+    "fit": "Straight Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "XL"
+    ],
+    "price": 4399,
+    "rating": 4.3,
+    "stock": 11
+  },
+  {
+    "id": "PANT-044",
+    "category": "pant",
+    "name": "Veloce Charcoal Stretch Cotton Formal Trousers",
+    "brand": "Veloce",
+    "type": "Formal Trousers",
+    "color": "Charcoal",
+    "material": "Stretch Cotton",
+    "fit": "Tapered Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "L",
+      "XL",
+      "XXL",
+      "S",
+      "M"
+    ],
+    "price": 1549,
+    "rating": 4.1,
+    "stock": 15
+  },
+  {
+    "id": "PANT-045",
+    "category": "pant",
+    "name": "ApexApparel Navy Denim Chinos",
+    "brand": "ApexApparel",
+    "type": "Chinos",
+    "color": "Navy",
+    "material": "Denim",
+    "fit": "Tapered Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "XL",
+      "L"
+    ],
+    "price": 3149,
+    "rating": 4.5,
+    "stock": 40
+  },
+  {
+    "id": "PANT-046",
+    "category": "pant",
+    "name": "Monolith Maroon Corduroy Chinos",
+    "brand": "Monolith",
+    "type": "Chinos",
+    "color": "Maroon",
+    "material": "Corduroy",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "M",
+      "XXL",
+      "L",
+      "XL"
+    ],
+    "price": 3849,
+    "rating": 4.5,
+    "stock": 30
+  },
+  {
+    "id": "PANT-047",
+    "category": "pant",
+    "name": "Solstice Black Linen Blend Chinos",
+    "brand": "Solstice",
+    "type": "Chinos",
+    "color": "Black",
+    "material": "Linen Blend",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "S",
+      "XL",
+      "L"
+    ],
+    "price": 2899,
+    "rating": 5,
+    "stock": 50
+  },
+  {
+    "id": "PANT-048",
+    "category": "pant",
+    "name": "ApexApparel Brown Corduroy Formal Trousers",
+    "brand": "ApexApparel",
+    "type": "Formal Trousers",
+    "color": "Brown",
+    "material": "Corduroy",
+    "fit": "Straight Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "XL",
+      "S",
+      "L"
+    ],
+    "price": 999,
+    "rating": 4.2,
+    "stock": 23
+  },
+  {
+    "id": "PANT-049",
+    "category": "pant",
+    "name": "Monolith Beige Corduroy Formal Trousers",
+    "brand": "Monolith",
+    "type": "Formal Trousers",
+    "color": "Beige",
+    "material": "Corduroy",
+    "fit": "Tapered Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 1299,
+    "rating": 4.2,
+    "stock": 32
+  },
+  {
+    "id": "PANT-050",
+    "category": "pant",
+    "name": "Solstice Blue Cotton Twill Slim Jeans",
+    "brand": "Solstice",
+    "type": "Slim Jeans",
+    "color": "Blue",
+    "material": "Cotton Twill",
+    "fit": "Relaxed Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "L"
+    ],
+    "price": 1249,
+    "rating": 4.6,
+    "stock": 11
+  },
+  {
+    "id": "PANT-051",
+    "category": "pant",
+    "name": "Solstice White Denim Joggers",
+    "brand": "Solstice",
+    "type": "Joggers",
+    "color": "White",
+    "material": "Denim",
+    "fit": "Straight Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "XL"
+    ],
+    "price": 3949,
+    "rating": 4.9,
+    "stock": 43
+  },
+  {
+    "id": "PANT-052",
+    "category": "pant",
+    "name": "Solstice Navy Corduroy Slim Jeans",
+    "brand": "Solstice",
+    "type": "Slim Jeans",
+    "color": "Navy",
+    "material": "Corduroy",
+    "fit": "Tapered Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "L",
+      "S",
+      "M"
+    ],
+    "price": 2549,
+    "rating": 4.1,
+    "stock": 13
+  },
+  {
+    "id": "PANT-053",
+    "category": "pant",
+    "name": "Kova Brown Cotton Twill Formal Trousers",
+    "brand": "Kova",
+    "type": "Formal Trousers",
+    "color": "Brown",
+    "material": "Cotton Twill",
+    "fit": "Tapered Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XL",
+      "M",
+      "L",
+      "XXL",
+      "S"
+    ],
+    "price": 3749,
+    "rating": 3.7,
+    "stock": 16
+  },
+  {
+    "id": "PANT-054",
+    "category": "pant",
+    "name": "ApexApparel Maroon Poly-Viscose Corduroy Pants",
+    "brand": "ApexApparel",
+    "type": "Corduroy Pants",
+    "color": "Maroon",
+    "material": "Poly-Viscose",
+    "fit": "Straight Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "XL",
+      "L",
+      "XXL"
+    ],
+    "price": 4299,
+    "rating": 4.6,
+    "stock": 47
+  },
+  {
+    "id": "PANT-055",
+    "category": "pant",
+    "name": "Solstice Black Linen Blend Joggers",
+    "brand": "Solstice",
+    "type": "Joggers",
+    "color": "Black",
+    "material": "Linen Blend",
+    "fit": "Straight Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "L",
+      "M",
+      "XL"
+    ],
+    "price": 4049,
+    "rating": 3.6,
+    "stock": 30
+  },
+  {
+    "id": "PANT-056",
+    "category": "pant",
+    "name": "Kova White Corduroy Joggers",
+    "brand": "Kova",
+    "type": "Joggers",
+    "color": "White",
+    "material": "Corduroy",
+    "fit": "Relaxed Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "S",
+      "XL"
+    ],
+    "price": 1999,
+    "rating": 4.1,
+    "stock": 42
+  },
+  {
+    "id": "PANT-057",
+    "category": "pant",
+    "name": "Veloce Olive Stretch Cotton Slim Jeans",
+    "brand": "Veloce",
+    "type": "Slim Jeans",
+    "color": "Olive",
+    "material": "Stretch Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XL",
+      "S",
+      "M",
+      "XXL",
+      "L"
+    ],
+    "price": 2499,
+    "rating": 4.6,
+    "stock": 23
+  },
+  {
+    "id": "PANT-058",
+    "category": "pant",
+    "name": "Monolith Beige Stretch Cotton Formal Trousers",
+    "brand": "Monolith",
+    "type": "Formal Trousers",
+    "color": "Beige",
+    "material": "Stretch Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "M",
+      "L",
+      "XL",
+      "S"
+    ],
+    "price": 2349,
+    "rating": 4.3,
+    "stock": 15
+  },
+  {
+    "id": "PANT-059",
+    "category": "pant",
+    "name": "CrestLine Olive Stretch Cotton Slim Jeans",
+    "brand": "CrestLine",
+    "type": "Slim Jeans",
+    "color": "Olive",
+    "material": "Stretch Cotton",
+    "fit": "Tapered Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "S",
+      "XXL",
+      "L"
+    ],
+    "price": 999,
+    "rating": 4.4,
+    "stock": 36
+  },
+  {
+    "id": "PANT-060",
+    "category": "pant",
+    "name": "Veloce Brown Cotton Twill Cargo Pants",
+    "brand": "Veloce",
+    "type": "Cargo Pants",
+    "color": "Brown",
+    "material": "Cotton Twill",
+    "fit": "Tapered Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "S"
+    ],
+    "price": 3149,
+    "rating": 4.2,
+    "stock": 26
+  },
+  {
+    "id": "PANT-061",
+    "category": "pant",
+    "name": "UrbanCraft Maroon Cotton Twill Slim Jeans",
+    "brand": "UrbanCraft",
+    "type": "Slim Jeans",
+    "color": "Maroon",
+    "material": "Cotton Twill",
+    "fit": "Tapered Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "M",
+      "XXL",
+      "XL",
+      "L"
+    ],
+    "price": 4399,
+    "rating": 4.8,
+    "stock": 39
+  },
+  {
+    "id": "PANT-062",
+    "category": "pant",
+    "name": "Monolith Navy Cotton Twill Cargo Pants",
+    "brand": "Monolith",
+    "type": "Cargo Pants",
+    "color": "Navy",
+    "material": "Cotton Twill",
+    "fit": "Slim Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "S",
+      "XXL",
+      "XL",
+      "L",
+      "M"
+    ],
+    "price": 3449,
+    "rating": 3.9,
+    "stock": 34
+  },
+  {
+    "id": "PANT-063",
+    "category": "pant",
+    "name": "Monolith Charcoal Cotton Twill Formal Trousers",
+    "brand": "Monolith",
+    "type": "Formal Trousers",
+    "color": "Charcoal",
+    "material": "Cotton Twill",
+    "fit": "Straight Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "S",
+      "L",
+      "XXL",
+      "M",
+      "XL"
+    ],
+    "price": 999,
+    "rating": 4.8,
+    "stock": 16
+  },
+  {
+    "id": "PANT-064",
+    "category": "pant",
+    "name": "Kova White Stretch Cotton Cargo Pants",
+    "brand": "Kova",
+    "type": "Cargo Pants",
+    "color": "White",
+    "material": "Stretch Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XL",
+      "XXL",
+      "L",
+      "S",
+      "M"
+    ],
+    "price": 3499,
+    "rating": 4,
+    "stock": 50
+  },
+  {
+    "id": "PANT-065",
+    "category": "pant",
+    "name": "ApexApparel Maroon Corduroy Cargo Pants",
+    "brand": "ApexApparel",
+    "type": "Cargo Pants",
+    "color": "Maroon",
+    "material": "Corduroy",
+    "fit": "Straight Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "L",
+      "M"
+    ],
+    "price": 3199,
+    "rating": 4.7,
+    "stock": 11
+  },
+  {
+    "id": "PANT-066",
+    "category": "pant",
+    "name": "UrbanCraft Black Poly-Viscose Slim Jeans",
+    "brand": "UrbanCraft",
+    "type": "Slim Jeans",
+    "color": "Black",
+    "material": "Poly-Viscose",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "XL",
+      "S",
+      "XXL",
+      "L"
+    ],
+    "price": 2049,
+    "rating": 4.4,
+    "stock": 18
+  },
+  {
+    "id": "PANT-067",
+    "category": "pant",
+    "name": "UrbanCraft White Poly-Viscose Joggers",
+    "brand": "UrbanCraft",
+    "type": "Joggers",
+    "color": "White",
+    "material": "Poly-Viscose",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "L",
+      "XXL",
+      "XL",
+      "M"
+    ],
+    "price": 2699,
+    "rating": 4.7,
+    "stock": 23
+  },
+  {
+    "id": "PANT-068",
+    "category": "pant",
+    "name": "Monolith Black Denim Chinos",
+    "brand": "Monolith",
+    "type": "Chinos",
+    "color": "Black",
+    "material": "Denim",
+    "fit": "Relaxed Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "S"
+    ],
+    "price": 3299,
+    "rating": 4.2,
+    "stock": 38
+  },
+  {
+    "id": "PANT-069",
+    "category": "pant",
+    "name": "UrbanCraft Grey Stretch Cotton Cargo Pants",
+    "brand": "UrbanCraft",
+    "type": "Cargo Pants",
+    "color": "Grey",
+    "material": "Stretch Cotton",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "L",
+      "XL",
+      "XXL",
+      "S"
+    ],
+    "price": 3599,
+    "rating": 3.7,
+    "stock": 44
+  },
+  {
+    "id": "PANT-070",
+    "category": "pant",
+    "name": "ApexApparel Grey Denim Chinos",
+    "brand": "ApexApparel",
+    "type": "Chinos",
+    "color": "Grey",
+    "material": "Denim",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XXL",
+      "XL"
+    ],
+    "price": 1849,
+    "rating": 3.7,
+    "stock": 35
+  },
+  {
+    "id": "PANT-071",
+    "category": "pant",
+    "name": "UrbanCraft Blue Linen Blend Chinos",
+    "brand": "UrbanCraft",
+    "type": "Chinos",
+    "color": "Blue",
+    "material": "Linen Blend",
+    "fit": "Straight Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "XL",
+      "M",
+      "XXL",
+      "L",
+      "S"
+    ],
+    "price": 2899,
+    "rating": 3.6,
+    "stock": 16
+  },
+  {
+    "id": "PANT-072",
+    "category": "pant",
+    "name": "UrbanCraft Charcoal Cotton Twill Formal Trousers",
+    "brand": "UrbanCraft",
+    "type": "Formal Trousers",
+    "color": "Charcoal",
+    "material": "Cotton Twill",
+    "fit": "Slim Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "L",
+      "XXL",
+      "XL",
+      "M",
+      "S"
+    ],
+    "price": 4249,
+    "rating": 3.8,
+    "stock": 17
+  },
+  {
+    "id": "PANT-073",
+    "category": "pant",
+    "name": "NordicWear Navy Denim Formal Trousers",
+    "brand": "NordicWear",
+    "type": "Formal Trousers",
+    "color": "Navy",
+    "material": "Denim",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "M",
+      "L",
+      "XXL",
+      "XL",
+      "S"
+    ],
+    "price": 3999,
+    "rating": 3.7,
+    "stock": 25
+  },
+  {
+    "id": "PANT-074",
+    "category": "pant",
+    "name": "CrestLine Olive Denim Formal Trousers",
+    "brand": "CrestLine",
+    "type": "Formal Trousers",
+    "color": "Olive",
+    "material": "Denim",
+    "fit": "Relaxed Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "S",
+      "XXL",
+      "M",
+      "XL"
+    ],
+    "price": 1499,
+    "rating": 4.3,
+    "stock": 9
+  },
+  {
+    "id": "PANT-075",
+    "category": "pant",
+    "name": "UrbanCraft Brown Corduroy Slim Jeans",
+    "brand": "UrbanCraft",
+    "type": "Slim Jeans",
+    "color": "Brown",
+    "material": "Corduroy",
+    "fit": "Straight Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "L",
+      "S",
+      "XXL"
+    ],
+    "price": 4149,
+    "rating": 4,
+    "stock": 43
+  },
+  {
+    "id": "PANT-076",
+    "category": "pant",
+    "name": "CrestLine Olive Poly-Viscose Formal Trousers",
+    "brand": "CrestLine",
+    "type": "Formal Trousers",
+    "color": "Olive",
+    "material": "Poly-Viscose",
+    "fit": "Straight Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "XXL",
+      "S"
+    ],
+    "price": 2299,
+    "rating": 3.5,
+    "stock": 33
+  },
+  {
+    "id": "PANT-077",
+    "category": "pant",
+    "name": "Solstice Maroon Stretch Cotton Formal Trousers",
+    "brand": "Solstice",
+    "type": "Formal Trousers",
+    "color": "Maroon",
+    "material": "Stretch Cotton",
+    "fit": "Tapered Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XXL",
+      "S",
+      "L"
+    ],
+    "price": 2799,
+    "rating": 4,
+    "stock": 20
+  },
+  {
+    "id": "PANT-078",
+    "category": "pant",
+    "name": "Solstice Black Linen Blend Slim Jeans",
+    "brand": "Solstice",
+    "type": "Slim Jeans",
+    "color": "Black",
+    "material": "Linen Blend",
+    "fit": "Straight Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "M",
+      "XL"
+    ],
+    "price": 4399,
+    "rating": 4.4,
+    "stock": 42
+  },
+  {
+    "id": "PANT-079",
+    "category": "pant",
+    "name": "ApexApparel Charcoal Corduroy Chinos",
+    "brand": "ApexApparel",
+    "type": "Chinos",
+    "color": "Charcoal",
+    "material": "Corduroy",
+    "fit": "Relaxed Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "L",
+      "S",
+      "XL",
+      "XXL"
+    ],
+    "price": 3699,
+    "rating": 4.2,
+    "stock": 29
+  },
+  {
+    "id": "PANT-080",
+    "category": "pant",
+    "name": "NordicWear White Cotton Twill Chinos",
+    "brand": "NordicWear",
+    "type": "Chinos",
+    "color": "White",
+    "material": "Cotton Twill",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XXL",
+      "XL",
+      "L",
+      "S"
+    ],
+    "price": 2049,
+    "rating": 4.6,
+    "stock": 38
+  },
+  {
+    "id": "PANT-081",
+    "category": "pant",
+    "name": "Monolith Black Corduroy Corduroy Pants",
+    "brand": "Monolith",
+    "type": "Corduroy Pants",
+    "color": "Black",
+    "material": "Corduroy",
+    "fit": "Tapered Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "XL",
+      "M",
+      "XXL",
+      "L",
+      "S"
+    ],
+    "price": 3499,
+    "rating": 3.7,
+    "stock": 50
+  },
+  {
+    "id": "PANT-082",
+    "category": "pant",
+    "name": "Solstice Beige Cotton Twill Slim Jeans",
+    "brand": "Solstice",
+    "type": "Slim Jeans",
+    "color": "Beige",
+    "material": "Cotton Twill",
+    "fit": "Straight Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "M",
+      "S",
+      "L",
+      "XXL"
+    ],
+    "price": 3949,
+    "rating": 4.4,
+    "stock": 27
+  },
+  {
+    "id": "PANT-083",
+    "category": "pant",
+    "name": "Veloce Olive Poly-Viscose Corduroy Pants",
+    "brand": "Veloce",
+    "type": "Corduroy Pants",
+    "color": "Olive",
+    "material": "Poly-Viscose",
+    "fit": "Straight Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "S",
+      "XL",
+      "L"
+    ],
+    "price": 1299,
+    "rating": 4.6,
+    "stock": 21
+  },
+  {
+    "id": "PANT-084",
+    "category": "pant",
+    "name": "Monolith Charcoal Cotton Twill Formal Trousers",
+    "brand": "Monolith",
+    "type": "Formal Trousers",
+    "color": "Charcoal",
+    "material": "Cotton Twill",
+    "fit": "Slim Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XL",
+      "S",
+      "XXL"
+    ],
+    "price": 1999,
+    "rating": 4.3,
+    "stock": 45
+  },
+  {
+    "id": "PANT-085",
+    "category": "pant",
+    "name": "ApexApparel Charcoal Denim Joggers",
+    "brand": "ApexApparel",
+    "type": "Joggers",
+    "color": "Charcoal",
+    "material": "Denim",
+    "fit": "Relaxed Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "L",
+      "M",
+      "XL",
+      "S",
+      "XXL"
+    ],
+    "price": 1549,
+    "rating": 3.7,
+    "stock": 49
+  },
+  {
+    "id": "PANT-086",
+    "category": "pant",
+    "name": "NordicWear Navy Linen Blend Formal Trousers",
+    "brand": "NordicWear",
+    "type": "Formal Trousers",
+    "color": "Navy",
+    "material": "Linen Blend",
+    "fit": "Relaxed Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "S",
+      "M",
+      "XXL"
+    ],
+    "price": 2499,
+    "rating": 4.7,
+    "stock": 7
+  },
+  {
+    "id": "PANT-087",
+    "category": "pant",
+    "name": "Solstice Olive Stretch Cotton Slim Jeans",
+    "brand": "Solstice",
+    "type": "Slim Jeans",
+    "color": "Olive",
+    "material": "Stretch Cotton",
+    "fit": "Straight Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "M",
+      "S",
+      "L"
+    ],
+    "price": 3199,
+    "rating": 5,
+    "stock": 15
+  },
+  {
+    "id": "PANT-088",
+    "category": "pant",
+    "name": "Veloce White Stretch Cotton Formal Trousers",
+    "brand": "Veloce",
+    "type": "Formal Trousers",
+    "color": "White",
+    "material": "Stretch Cotton",
+    "fit": "Slim Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "M",
+      "S",
+      "L",
+      "XXL",
+      "XL"
+    ],
+    "price": 1949,
+    "rating": 4.5,
+    "stock": 20
+  },
+  {
+    "id": "PANT-089",
+    "category": "pant",
+    "name": "Monolith Grey Cotton Twill Chinos",
+    "brand": "Monolith",
+    "type": "Chinos",
+    "color": "Grey",
+    "material": "Cotton Twill",
+    "fit": "Relaxed Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "XL"
+    ],
+    "price": 2549,
+    "rating": 4.1,
+    "stock": 31
+  },
+  {
+    "id": "PANT-090",
+    "category": "pant",
+    "name": "ApexApparel Beige Corduroy Formal Trousers",
+    "brand": "ApexApparel",
+    "type": "Formal Trousers",
+    "color": "Beige",
+    "material": "Corduroy",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "L",
+      "XL",
+      "XXL",
+      "M"
+    ],
+    "price": 3599,
+    "rating": 4.9,
+    "stock": 23
+  },
+  {
+    "id": "PANT-091",
+    "category": "pant",
+    "name": "Veloce Olive Cotton Twill Cargo Pants",
+    "brand": "Veloce",
+    "type": "Cargo Pants",
+    "color": "Olive",
+    "material": "Cotton Twill",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "M",
+      "XL",
+      "L",
+      "XXL",
+      "S"
+    ],
+    "price": 1899,
+    "rating": 4.5,
+    "stock": 7
+  },
+  {
+    "id": "PANT-092",
+    "category": "pant",
+    "name": "CrestLine Grey Stretch Cotton Joggers",
+    "brand": "CrestLine",
+    "type": "Joggers",
+    "color": "Grey",
+    "material": "Stretch Cotton",
+    "fit": "Tapered Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XL",
+      "S",
+      "L"
+    ],
+    "price": 4499,
+    "rating": 3.7,
+    "stock": 49
+  },
+  {
+    "id": "PANT-093",
+    "category": "pant",
+    "name": "Veloce Grey Poly-Viscose Slim Jeans",
+    "brand": "Veloce",
+    "type": "Slim Jeans",
+    "color": "Grey",
+    "material": "Poly-Viscose",
+    "fit": "Tapered Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "L",
+      "S",
+      "M"
+    ],
+    "price": 4199,
+    "rating": 4.8,
+    "stock": 21
+  },
+  {
+    "id": "PANT-094",
+    "category": "pant",
+    "name": "Veloce Beige Cotton Twill Joggers",
+    "brand": "Veloce",
+    "type": "Joggers",
+    "color": "Beige",
+    "material": "Cotton Twill",
+    "fit": "Slim Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "M",
+      "XL"
+    ],
+    "price": 1449,
+    "rating": 3.7,
+    "stock": 5
+  },
+  {
+    "id": "PANT-095",
+    "category": "pant",
+    "name": "UrbanCraft Beige Corduroy Corduroy Pants",
+    "brand": "UrbanCraft",
+    "type": "Corduroy Pants",
+    "color": "Beige",
+    "material": "Corduroy",
+    "fit": "Tapered Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "L",
+      "S",
+      "XL"
+    ],
+    "price": 1099,
+    "rating": 4.4,
+    "stock": 36
+  },
+  {
+    "id": "PANT-096",
+    "category": "pant",
+    "name": "NordicWear Olive Cotton Twill Chinos",
+    "brand": "NordicWear",
+    "type": "Chinos",
+    "color": "Olive",
+    "material": "Cotton Twill",
+    "fit": "Relaxed Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "L",
+      "XXL"
+    ],
+    "price": 4049,
+    "rating": 4.9,
+    "stock": 11
+  },
+  {
+    "id": "PANT-097",
+    "category": "pant",
+    "name": "Solstice Beige Stretch Cotton Corduroy Pants",
+    "brand": "Solstice",
+    "type": "Corduroy Pants",
+    "color": "Beige",
+    "material": "Stretch Cotton",
+    "fit": "Relaxed Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XL",
+      "L",
+      "XXL",
+      "M",
+      "S"
+    ],
+    "price": 999,
+    "rating": 3.6,
+    "stock": 12
+  },
+  {
+    "id": "PANT-098",
+    "category": "pant",
+    "name": "CrestLine Navy Poly-Viscose Cargo Pants",
+    "brand": "CrestLine",
+    "type": "Cargo Pants",
+    "color": "Navy",
+    "material": "Poly-Viscose",
+    "fit": "Relaxed Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "L",
+      "XL",
+      "S",
+      "M",
+      "XXL"
+    ],
+    "price": 1199,
+    "rating": 4.3,
+    "stock": 35
+  },
+  {
+    "id": "PANT-099",
+    "category": "pant",
+    "name": "Solstice Navy Corduroy Corduroy Pants",
+    "brand": "Solstice",
+    "type": "Corduroy Pants",
+    "color": "Navy",
+    "material": "Corduroy",
+    "fit": "Straight Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "L",
+      "XL",
+      "S"
+    ],
+    "price": 3249,
+    "rating": 4.5,
+    "stock": 27
+  },
+  {
+    "id": "PANT-100",
+    "category": "pant",
+    "name": "CrestLine Black Cotton Twill Chinos",
+    "brand": "CrestLine",
+    "type": "Chinos",
+    "color": "Black",
+    "material": "Cotton Twill",
+    "fit": "Tapered Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "L",
+      "M",
+      "XL",
+      "S"
+    ],
+    "price": 1099,
+    "rating": 3.6,
+    "stock": 32
+  },
+  {
+    "id": "JKT-001",
+    "category": "jacket",
+    "name": "NordicWear Beige Nylon Puffer Jacket",
+    "brand": "NordicWear",
+    "type": "Puffer Jacket",
+    "color": "Beige",
+    "material": "Nylon",
+    "fit": "Slim Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "XL",
+      "XXL",
+      "S",
+      "L"
+    ],
+    "price": 4849,
+    "rating": 4.4,
+    "stock": 25
+  },
+  {
+    "id": "JKT-002",
+    "category": "jacket",
+    "name": "UrbanCraft Black Polyester Fleece Leather Jacket",
+    "brand": "UrbanCraft",
+    "type": "Leather Jacket",
+    "color": "Black",
+    "material": "Polyester Fleece",
+    "fit": "Oversized Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "L"
+    ],
+    "price": 5149,
+    "rating": 4.3,
+    "stock": 41
+  },
+  {
+    "id": "JKT-003",
+    "category": "jacket",
+    "name": "CrestLine White Polyester Fleece Windbreaker",
+    "brand": "CrestLine",
+    "type": "Windbreaker",
+    "color": "White",
+    "material": "Polyester Fleece",
+    "fit": "Oversized Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "S",
+      "XXL",
+      "L",
+      "M",
+      "XL"
+    ],
+    "price": 3099,
+    "rating": 4.9,
+    "stock": 32
+  },
+  {
+    "id": "JKT-004",
+    "category": "jacket",
+    "name": "UrbanCraft Beige Polyester Fleece Puffer Jacket",
+    "brand": "UrbanCraft",
+    "type": "Puffer Jacket",
+    "color": "Beige",
+    "material": "Polyester Fleece",
+    "fit": "Oversized Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "S",
+      "L",
+      "XL"
+    ],
+    "price": 8199,
+    "rating": 3.8,
+    "stock": 31
+  },
+  {
+    "id": "JKT-005",
+    "category": "jacket",
+    "name": "UrbanCraft Beige Nylon Denim Jacket",
+    "brand": "UrbanCraft",
+    "type": "Denim Jacket",
+    "color": "Beige",
+    "material": "Nylon",
+    "fit": "Regular Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "XXL",
+      "XL",
+      "L"
+    ],
+    "price": 5649,
+    "rating": 3.8,
+    "stock": 13
+  },
+  {
+    "id": "JKT-006",
+    "category": "jacket",
+    "name": "Kova Grey Wool Blend Leather Jacket",
+    "brand": "Kova",
+    "type": "Leather Jacket",
+    "color": "Grey",
+    "material": "Wool Blend",
+    "fit": "Slim Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XL",
+      "S",
+      "M"
+    ],
+    "price": 2249,
+    "rating": 3.8,
+    "stock": 19
+  },
+  {
+    "id": "JKT-007",
+    "category": "jacket",
+    "name": "ApexApparel Beige Polyester Fleece Blazer Jacket",
+    "brand": "ApexApparel",
+    "type": "Blazer Jacket",
+    "color": "Beige",
+    "material": "Polyester Fleece",
+    "fit": "Regular Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "L",
+      "XXL",
+      "M",
+      "XL",
+      "S"
+    ],
+    "price": 1999,
+    "rating": 4.3,
+    "stock": 33
+  },
+  {
+    "id": "JKT-008",
+    "category": "jacket",
+    "name": "NordicWear White Nylon Denim Jacket",
+    "brand": "NordicWear",
+    "type": "Denim Jacket",
+    "color": "White",
+    "material": "Nylon",
+    "fit": "Regular Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "L",
+      "S",
+      "XL"
+    ],
+    "price": 7449,
+    "rating": 4.3,
+    "stock": 22
+  },
+  {
+    "id": "JKT-009",
+    "category": "jacket",
+    "name": "Solstice Olive Waterproof Shell Windbreaker",
+    "brand": "Solstice",
+    "type": "Windbreaker",
+    "color": "Olive",
+    "material": "Waterproof Shell",
+    "fit": "Slim Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "L",
+      "S"
+    ],
+    "price": 6699,
+    "rating": 4.9,
+    "stock": 44
+  },
+  {
+    "id": "JKT-010",
+    "category": "jacket",
+    "name": "UrbanCraft Maroon Denim Windbreaker",
+    "brand": "UrbanCraft",
+    "type": "Windbreaker",
+    "color": "Maroon",
+    "material": "Denim",
+    "fit": "Oversized Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "XL",
+      "M",
+      "L"
+    ],
+    "price": 8049,
+    "rating": 4.2,
+    "stock": 50
+  },
+  {
+    "id": "JKT-011",
+    "category": "jacket",
+    "name": "Kova Charcoal Waterproof Shell Blazer Jacket",
+    "brand": "Kova",
+    "type": "Blazer Jacket",
+    "color": "Charcoal",
+    "material": "Waterproof Shell",
+    "fit": "Regular Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "S",
+      "L"
+    ],
+    "price": 5649,
+    "rating": 4.4,
+    "stock": 40
+  },
+  {
+    "id": "JKT-012",
+    "category": "jacket",
+    "name": "Monolith Olive Nylon Blazer Jacket",
+    "brand": "Monolith",
+    "type": "Blazer Jacket",
+    "color": "Olive",
+    "material": "Nylon",
+    "fit": "Regular Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "S",
+      "L",
+      "M"
+    ],
+    "price": 5349,
+    "rating": 4.5,
+    "stock": 17
+  },
+  {
+    "id": "JKT-013",
+    "category": "jacket",
+    "name": "CrestLine Black Waterproof Shell Puffer Jacket",
+    "brand": "CrestLine",
+    "type": "Puffer Jacket",
+    "color": "Black",
+    "material": "Waterproof Shell",
+    "fit": "Oversized Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "S"
+    ],
+    "price": 2599,
+    "rating": 4.4,
+    "stock": 40
+  },
+  {
+    "id": "JKT-014",
+    "category": "jacket",
+    "name": "UrbanCraft Beige Denim Windbreaker",
+    "brand": "UrbanCraft",
+    "type": "Windbreaker",
+    "color": "Beige",
+    "material": "Denim",
+    "fit": "Slim Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "XL",
+      "M",
+      "L",
+      "XXL",
+      "S"
+    ],
+    "price": 3349,
+    "rating": 4.7,
+    "stock": 27
+  },
+  {
+    "id": "JKT-015",
+    "category": "jacket",
+    "name": "Veloce Brown Polyester Fleece Bomber Jacket",
+    "brand": "Veloce",
+    "type": "Bomber Jacket",
+    "color": "Brown",
+    "material": "Polyester Fleece",
+    "fit": "Slim Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "L",
+      "M",
+      "XXL"
+    ],
+    "price": 2649,
+    "rating": 4.7,
+    "stock": 27
+  },
+  {
+    "id": "JKT-016",
+    "category": "jacket",
+    "name": "NordicWear Blue Waterproof Shell Leather Jacket",
+    "brand": "NordicWear",
+    "type": "Leather Jacket",
+    "color": "Blue",
+    "material": "Waterproof Shell",
+    "fit": "Regular Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "L"
+    ],
+    "price": 6399,
+    "rating": 3.6,
+    "stock": 36
+  },
+  {
+    "id": "JKT-017",
+    "category": "jacket",
+    "name": "Solstice White Wool Blend Blazer Jacket",
+    "brand": "Solstice",
+    "type": "Blazer Jacket",
+    "color": "White",
+    "material": "Wool Blend",
+    "fit": "Regular Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "S"
+    ],
+    "price": 8499,
+    "rating": 4.5,
+    "stock": 45
+  },
+  {
+    "id": "JKT-018",
+    "category": "jacket",
+    "name": "Veloce Grey Faux Leather Bomber Jacket",
+    "brand": "Veloce",
+    "type": "Bomber Jacket",
+    "color": "Grey",
+    "material": "Faux Leather",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XL",
+      "S",
+      "XXL"
+    ],
+    "price": 6649,
+    "rating": 4.8,
+    "stock": 20
+  },
+  {
+    "id": "JKT-019",
+    "category": "jacket",
+    "name": "Veloce Black Waterproof Shell Puffer Jacket",
+    "brand": "Veloce",
+    "type": "Puffer Jacket",
+    "color": "Black",
+    "material": "Waterproof Shell",
+    "fit": "Regular Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "S",
+      "L",
+      "XXL",
+      "XL"
+    ],
+    "price": 8199,
+    "rating": 4,
+    "stock": 21
+  },
+  {
+    "id": "JKT-020",
+    "category": "jacket",
+    "name": "Solstice White Nylon Bomber Jacket",
+    "brand": "Solstice",
+    "type": "Bomber Jacket",
+    "color": "White",
+    "material": "Nylon",
+    "fit": "Boxy Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "L",
+      "XXL",
+      "XL"
+    ],
+    "price": 4199,
+    "rating": 3.7,
+    "stock": 23
+  },
+  {
+    "id": "JKT-021",
+    "category": "jacket",
+    "name": "Monolith Black Faux Leather Blazer Jacket",
+    "brand": "Monolith",
+    "type": "Blazer Jacket",
+    "color": "Black",
+    "material": "Faux Leather",
+    "fit": "Regular Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XL",
+      "XXL",
+      "S",
+      "L",
+      "M"
+    ],
+    "price": 6049,
+    "rating": 4.5,
+    "stock": 10
+  },
+  {
+    "id": "JKT-022",
+    "category": "jacket",
+    "name": "Monolith Charcoal Nylon Bomber Jacket",
+    "brand": "Monolith",
+    "type": "Bomber Jacket",
+    "color": "Charcoal",
+    "material": "Nylon",
+    "fit": "Oversized Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "XL",
+      "S"
+    ],
+    "price": 6149,
+    "rating": 4,
+    "stock": 37
+  },
+  {
+    "id": "JKT-023",
+    "category": "jacket",
+    "name": "Veloce Maroon Denim Denim Jacket",
+    "brand": "Veloce",
+    "type": "Denim Jacket",
+    "color": "Maroon",
+    "material": "Denim",
+    "fit": "Slim Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "S",
+      "XL",
+      "L",
+      "M",
+      "XXL"
+    ],
+    "price": 5399,
+    "rating": 4.7,
+    "stock": 31
+  },
+  {
+    "id": "JKT-024",
+    "category": "jacket",
+    "name": "Solstice Maroon Waterproof Shell Denim Jacket",
+    "brand": "Solstice",
+    "type": "Denim Jacket",
+    "color": "Maroon",
+    "material": "Waterproof Shell",
+    "fit": "Slim Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "L",
+      "XXL",
+      "S",
+      "XL"
+    ],
+    "price": 8099,
+    "rating": 4.2,
+    "stock": 29
+  },
+  {
+    "id": "JKT-025",
+    "category": "jacket",
+    "name": "Solstice Charcoal Polyester Fleece Bomber Jacket",
+    "brand": "Solstice",
+    "type": "Bomber Jacket",
+    "color": "Charcoal",
+    "material": "Polyester Fleece",
+    "fit": "Boxy Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "XL",
+      "S"
+    ],
+    "price": 5349,
+    "rating": 4.2,
+    "stock": 33
+  },
+  {
+    "id": "JKT-026",
+    "category": "jacket",
+    "name": "NordicWear Brown Faux Leather Puffer Jacket",
+    "brand": "NordicWear",
+    "type": "Puffer Jacket",
+    "color": "Brown",
+    "material": "Faux Leather",
+    "fit": "Regular Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "L",
+      "XXL",
+      "S",
+      "M"
+    ],
+    "price": 4599,
+    "rating": 4.5,
+    "stock": 31
+  },
+  {
+    "id": "JKT-027",
+    "category": "jacket",
+    "name": "Kova Olive Waterproof Shell Puffer Jacket",
+    "brand": "Kova",
+    "type": "Puffer Jacket",
+    "color": "Olive",
+    "material": "Waterproof Shell",
+    "fit": "Boxy Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XL",
+      "L",
+      "XXL",
+      "M"
+    ],
+    "price": 3699,
+    "rating": 4.3,
+    "stock": 23
+  },
+  {
+    "id": "JKT-028",
+    "category": "jacket",
+    "name": "Veloce Navy Faux Leather Bomber Jacket",
+    "brand": "Veloce",
+    "type": "Bomber Jacket",
+    "color": "Navy",
+    "material": "Faux Leather",
+    "fit": "Slim Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "L",
+      "XL",
+      "M",
+      "XXL"
+    ],
+    "price": 3349,
+    "rating": 4.2,
+    "stock": 12
+  },
+  {
+    "id": "JKT-029",
+    "category": "jacket",
+    "name": "NordicWear Blue Denim Blazer Jacket",
+    "brand": "NordicWear",
+    "type": "Blazer Jacket",
+    "color": "Blue",
+    "material": "Denim",
+    "fit": "Regular Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "XL",
+      "S",
+      "L"
+    ],
+    "price": 5599,
+    "rating": 4.5,
+    "stock": 13
+  },
+  {
+    "id": "JKT-030",
+    "category": "jacket",
+    "name": "Solstice Charcoal Faux Leather Leather Jacket",
+    "brand": "Solstice",
+    "type": "Leather Jacket",
+    "color": "Charcoal",
+    "material": "Faux Leather",
+    "fit": "Regular Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "L",
+      "M",
+      "XL"
+    ],
+    "price": 6299,
+    "rating": 3.6,
+    "stock": 30
+  },
+  {
+    "id": "JKT-031",
+    "category": "jacket",
+    "name": "NordicWear Beige Waterproof Shell Leather Jacket",
+    "brand": "NordicWear",
+    "type": "Leather Jacket",
+    "color": "Beige",
+    "material": "Waterproof Shell",
+    "fit": "Regular Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XL",
+      "M",
+      "L",
+      "S"
+    ],
+    "price": 8349,
+    "rating": 4,
+    "stock": 48
+  },
+  {
+    "id": "JKT-032",
+    "category": "jacket",
+    "name": "ApexApparel Brown Faux Leather Leather Jacket",
+    "brand": "ApexApparel",
+    "type": "Leather Jacket",
+    "color": "Brown",
+    "material": "Faux Leather",
+    "fit": "Oversized Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XXL",
+      "S",
+      "L",
+      "M"
+    ],
+    "price": 4199,
+    "rating": 4.8,
+    "stock": 46
+  },
+  {
+    "id": "JKT-033",
+    "category": "jacket",
+    "name": "Veloce Charcoal Faux Leather Leather Jacket",
+    "brand": "Veloce",
+    "type": "Leather Jacket",
+    "color": "Charcoal",
+    "material": "Faux Leather",
+    "fit": "Boxy Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "S",
+      "XL",
+      "XXL",
+      "M"
+    ],
+    "price": 3649,
+    "rating": 4.4,
+    "stock": 26
+  },
+  {
+    "id": "JKT-034",
+    "category": "jacket",
+    "name": "Solstice Charcoal Polyester Fleece Bomber Jacket",
+    "brand": "Solstice",
+    "type": "Bomber Jacket",
+    "color": "Charcoal",
+    "material": "Polyester Fleece",
+    "fit": "Boxy Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "L",
+      "XXL",
+      "S"
+    ],
+    "price": 4399,
+    "rating": 3.9,
+    "stock": 38
+  },
+  {
+    "id": "JKT-035",
+    "category": "jacket",
+    "name": "Solstice Brown Denim Windbreaker",
+    "brand": "Solstice",
+    "type": "Windbreaker",
+    "color": "Brown",
+    "material": "Denim",
+    "fit": "Slim Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "S",
+      "L",
+      "M",
+      "XL"
+    ],
+    "price": 3699,
+    "rating": 3.6,
+    "stock": 12
+  },
+  {
+    "id": "JKT-036",
+    "category": "jacket",
+    "name": "Monolith White Nylon Leather Jacket",
+    "brand": "Monolith",
+    "type": "Leather Jacket",
+    "color": "White",
+    "material": "Nylon",
+    "fit": "Slim Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XXL"
+    ],
+    "price": 3649,
+    "rating": 4.9,
+    "stock": 20
+  },
+  {
+    "id": "JKT-037",
+    "category": "jacket",
+    "name": "Monolith Beige Waterproof Shell Leather Jacket",
+    "brand": "Monolith",
+    "type": "Leather Jacket",
+    "color": "Beige",
+    "material": "Waterproof Shell",
+    "fit": "Regular Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "L"
+    ],
+    "price": 3899,
+    "rating": 3.8,
+    "stock": 23
+  },
+  {
+    "id": "JKT-038",
+    "category": "jacket",
+    "name": "Veloce Maroon Denim Blazer Jacket",
+    "brand": "Veloce",
+    "type": "Blazer Jacket",
+    "color": "Maroon",
+    "material": "Denim",
+    "fit": "Boxy Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XXL",
+      "XL"
+    ],
+    "price": 3649,
+    "rating": 5,
+    "stock": 20
+  },
+  {
+    "id": "JKT-039",
+    "category": "jacket",
+    "name": "NordicWear Beige Waterproof Shell Blazer Jacket",
+    "brand": "NordicWear",
+    "type": "Blazer Jacket",
+    "color": "Beige",
+    "material": "Waterproof Shell",
+    "fit": "Regular Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "S",
+      "M",
+      "XXL"
+    ],
+    "price": 5149,
+    "rating": 4,
+    "stock": 13
+  },
+  {
+    "id": "JKT-040",
+    "category": "jacket",
+    "name": "NordicWear Navy Waterproof Shell Puffer Jacket",
+    "brand": "NordicWear",
+    "type": "Puffer Jacket",
+    "color": "Navy",
+    "material": "Waterproof Shell",
+    "fit": "Slim Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "M",
+      "L",
+      "S"
+    ],
+    "price": 4249,
+    "rating": 4.8,
+    "stock": 42
+  },
+  {
+    "id": "JKT-041",
+    "category": "jacket",
+    "name": "Veloce Olive Faux Leather Leather Jacket",
+    "brand": "Veloce",
+    "type": "Leather Jacket",
+    "color": "Olive",
+    "material": "Faux Leather",
+    "fit": "Oversized Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "L",
+      "XL"
+    ],
+    "price": 6499,
+    "rating": 4.4,
+    "stock": 8
+  },
+  {
+    "id": "JKT-042",
+    "category": "jacket",
+    "name": "NordicWear Beige Waterproof Shell Blazer Jacket",
+    "brand": "NordicWear",
+    "type": "Blazer Jacket",
+    "color": "Beige",
+    "material": "Waterproof Shell",
+    "fit": "Oversized Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "S",
+      "XXL",
+      "M",
+      "XL"
+    ],
+    "price": 7599,
+    "rating": 3.7,
+    "stock": 44
+  },
+  {
+    "id": "JKT-043",
+    "category": "jacket",
+    "name": "Monolith Beige Wool Blend Puffer Jacket",
+    "brand": "Monolith",
+    "type": "Puffer Jacket",
+    "color": "Beige",
+    "material": "Wool Blend",
+    "fit": "Slim Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "S",
+      "XL",
+      "XXL",
+      "M"
+    ],
+    "price": 8299,
+    "rating": 5,
+    "stock": 30
+  },
+  {
+    "id": "JKT-044",
+    "category": "jacket",
+    "name": "Solstice Black Faux Leather Bomber Jacket",
+    "brand": "Solstice",
+    "type": "Bomber Jacket",
+    "color": "Black",
+    "material": "Faux Leather",
+    "fit": "Boxy Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XL",
+      "S",
+      "L",
+      "XXL"
+    ],
+    "price": 6299,
+    "rating": 3.9,
+    "stock": 18
+  },
+  {
+    "id": "JKT-045",
+    "category": "jacket",
+    "name": "Veloce Beige Polyester Fleece Denim Jacket",
+    "brand": "Veloce",
+    "type": "Denim Jacket",
+    "color": "Beige",
+    "material": "Polyester Fleece",
+    "fit": "Boxy Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XL",
+      "L",
+      "XXL",
+      "S"
+    ],
+    "price": 3099,
+    "rating": 4.3,
+    "stock": 40
+  },
+  {
+    "id": "JKT-046",
+    "category": "jacket",
+    "name": "NordicWear White Faux Leather Blazer Jacket",
+    "brand": "NordicWear",
+    "type": "Blazer Jacket",
+    "color": "White",
+    "material": "Faux Leather",
+    "fit": "Regular Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "S"
+    ],
+    "price": 5749,
+    "rating": 4.3,
+    "stock": 45
+  },
+  {
+    "id": "JKT-047",
+    "category": "jacket",
+    "name": "NordicWear Charcoal Nylon Leather Jacket",
+    "brand": "NordicWear",
+    "type": "Leather Jacket",
+    "color": "Charcoal",
+    "material": "Nylon",
+    "fit": "Oversized Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XL",
+      "XXL",
+      "S",
+      "M",
+      "L"
+    ],
+    "price": 8399,
+    "rating": 4.7,
+    "stock": 23
+  },
+  {
+    "id": "JKT-048",
+    "category": "jacket",
+    "name": "NordicWear Olive Faux Leather Windbreaker",
+    "brand": "NordicWear",
+    "type": "Windbreaker",
+    "color": "Olive",
+    "material": "Faux Leather",
+    "fit": "Boxy Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 3849,
+    "rating": 4.6,
+    "stock": 32
+  },
+  {
+    "id": "JKT-049",
+    "category": "jacket",
+    "name": "Monolith Maroon Wool Blend Blazer Jacket",
+    "brand": "Monolith",
+    "type": "Blazer Jacket",
+    "color": "Maroon",
+    "material": "Wool Blend",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "S",
+      "XL",
+      "L",
+      "M"
+    ],
+    "price": 4649,
+    "rating": 4.2,
+    "stock": 20
+  },
+  {
+    "id": "JKT-050",
+    "category": "jacket",
+    "name": "Monolith Beige Faux Leather Puffer Jacket",
+    "brand": "Monolith",
+    "type": "Puffer Jacket",
+    "color": "Beige",
+    "material": "Faux Leather",
+    "fit": "Regular Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "L",
+      "XL",
+      "M"
+    ],
+    "price": 6949,
+    "rating": 3.5,
+    "stock": 43
+  },
+  {
+    "id": "JKT-051",
+    "category": "jacket",
+    "name": "UrbanCraft Beige Polyester Fleece Blazer Jacket",
+    "brand": "UrbanCraft",
+    "type": "Blazer Jacket",
+    "color": "Beige",
+    "material": "Polyester Fleece",
+    "fit": "Boxy Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "M",
+      "S",
+      "XXL",
+      "L",
+      "XL"
+    ],
+    "price": 6049,
+    "rating": 3.6,
+    "stock": 50
+  },
+  {
+    "id": "JKT-052",
+    "category": "jacket",
+    "name": "Veloce Black Waterproof Shell Denim Jacket",
+    "brand": "Veloce",
+    "type": "Denim Jacket",
+    "color": "Black",
+    "material": "Waterproof Shell",
+    "fit": "Slim Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XL",
+      "XXL",
+      "L"
+    ],
+    "price": 7999,
+    "rating": 4.5,
+    "stock": 39
+  },
+  {
+    "id": "JKT-053",
+    "category": "jacket",
+    "name": "NordicWear Beige Denim Denim Jacket",
+    "brand": "NordicWear",
+    "type": "Denim Jacket",
+    "color": "Beige",
+    "material": "Denim",
+    "fit": "Oversized Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "XL",
+      "L",
+      "S"
+    ],
+    "price": 4799,
+    "rating": 4.7,
+    "stock": 30
+  },
+  {
+    "id": "JKT-054",
+    "category": "jacket",
+    "name": "Solstice Navy Nylon Denim Jacket",
+    "brand": "Solstice",
+    "type": "Denim Jacket",
+    "color": "Navy",
+    "material": "Nylon",
+    "fit": "Oversized Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "L",
+      "M",
+      "XXL"
+    ],
+    "price": 8149,
+    "rating": 4,
+    "stock": 6
+  },
+  {
+    "id": "JKT-055",
+    "category": "jacket",
+    "name": "Solstice Brown Nylon Denim Jacket",
+    "brand": "Solstice",
+    "type": "Denim Jacket",
+    "color": "Brown",
+    "material": "Nylon",
+    "fit": "Regular Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "S",
+      "XL",
+      "M"
+    ],
+    "price": 6199,
+    "rating": 4.2,
+    "stock": 16
+  },
+  {
+    "id": "JKT-056",
+    "category": "jacket",
+    "name": "Veloce Black Wool Blend Windbreaker",
+    "brand": "Veloce",
+    "type": "Windbreaker",
+    "color": "Black",
+    "material": "Wool Blend",
+    "fit": "Regular Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XL",
+      "S",
+      "M",
+      "L"
+    ],
+    "price": 2799,
+    "rating": 4.5,
+    "stock": 26
+  },
+  {
+    "id": "JKT-057",
+    "category": "jacket",
+    "name": "Veloce Charcoal Nylon Puffer Jacket",
+    "brand": "Veloce",
+    "type": "Puffer Jacket",
+    "color": "Charcoal",
+    "material": "Nylon",
+    "fit": "Oversized Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "S",
+      "L",
+      "XL",
+      "M"
+    ],
+    "price": 6749,
+    "rating": 4.5,
+    "stock": 31
+  },
+  {
+    "id": "JKT-058",
+    "category": "jacket",
+    "name": "CrestLine White Denim Denim Jacket",
+    "brand": "CrestLine",
+    "type": "Denim Jacket",
+    "color": "White",
+    "material": "Denim",
+    "fit": "Oversized Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "XXL",
+      "XL",
+      "L"
+    ],
+    "price": 6699,
+    "rating": 4.5,
+    "stock": 47
+  },
+  {
+    "id": "JKT-059",
+    "category": "jacket",
+    "name": "NordicWear White Denim Leather Jacket",
+    "brand": "NordicWear",
+    "type": "Leather Jacket",
+    "color": "White",
+    "material": "Denim",
+    "fit": "Regular Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "M",
+      "XL"
+    ],
+    "price": 2499,
+    "rating": 3.5,
+    "stock": 41
+  },
+  {
+    "id": "JKT-060",
+    "category": "jacket",
+    "name": "ApexApparel Blue Denim Blazer Jacket",
+    "brand": "ApexApparel",
+    "type": "Blazer Jacket",
+    "color": "Blue",
+    "material": "Denim",
+    "fit": "Slim Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XL",
+      "L",
+      "S",
+      "XXL"
+    ],
+    "price": 6749,
+    "rating": 4.4,
+    "stock": 35
+  },
+  {
+    "id": "JKT-061",
+    "category": "jacket",
+    "name": "UrbanCraft Beige Faux Leather Bomber Jacket",
+    "brand": "UrbanCraft",
+    "type": "Bomber Jacket",
+    "color": "Beige",
+    "material": "Faux Leather",
+    "fit": "Slim Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XL",
+      "L",
+      "S"
+    ],
+    "price": 5349,
+    "rating": 4,
+    "stock": 6
+  },
+  {
+    "id": "JKT-062",
+    "category": "jacket",
+    "name": "NordicWear Black Polyester Fleece Puffer Jacket",
+    "brand": "NordicWear",
+    "type": "Puffer Jacket",
+    "color": "Black",
+    "material": "Polyester Fleece",
+    "fit": "Boxy Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "S",
+      "L",
+      "XXL",
+      "XL",
+      "M"
+    ],
+    "price": 6149,
+    "rating": 4.2,
+    "stock": 45
+  },
+  {
+    "id": "JKT-063",
+    "category": "jacket",
+    "name": "Kova Olive Faux Leather Leather Jacket",
+    "brand": "Kova",
+    "type": "Leather Jacket",
+    "color": "Olive",
+    "material": "Faux Leather",
+    "fit": "Regular Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XL",
+      "XXL",
+      "M",
+      "S"
+    ],
+    "price": 5699,
+    "rating": 4.8,
+    "stock": 24
+  },
+  {
+    "id": "JKT-064",
+    "category": "jacket",
+    "name": "Veloce Grey Polyester Fleece Denim Jacket",
+    "brand": "Veloce",
+    "type": "Denim Jacket",
+    "color": "Grey",
+    "material": "Polyester Fleece",
+    "fit": "Boxy Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "L",
+      "S",
+      "M",
+      "XXL",
+      "XL"
+    ],
+    "price": 8499,
+    "rating": 3.7,
+    "stock": 7
+  },
+  {
+    "id": "JKT-065",
+    "category": "jacket",
+    "name": "UrbanCraft White Nylon Denim Jacket",
+    "brand": "UrbanCraft",
+    "type": "Denim Jacket",
+    "color": "White",
+    "material": "Nylon",
+    "fit": "Regular Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "L",
+      "XL",
+      "S"
+    ],
+    "price": 2399,
+    "rating": 3.8,
+    "stock": 32
+  },
+  {
+    "id": "JKT-066",
+    "category": "jacket",
+    "name": "Kova Charcoal Polyester Fleece Puffer Jacket",
+    "brand": "Kova",
+    "type": "Puffer Jacket",
+    "color": "Charcoal",
+    "material": "Polyester Fleece",
+    "fit": "Slim Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 2699,
+    "rating": 3.5,
+    "stock": 38
+  },
+  {
+    "id": "JKT-067",
+    "category": "jacket",
+    "name": "Monolith Beige Nylon Denim Jacket",
+    "brand": "Monolith",
+    "type": "Denim Jacket",
+    "color": "Beige",
+    "material": "Nylon",
+    "fit": "Oversized Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "S",
+      "XXL",
+      "XL"
+    ],
+    "price": 4699,
+    "rating": 3.8,
+    "stock": 33
+  },
+  {
+    "id": "JKT-068",
+    "category": "jacket",
+    "name": "Monolith Beige Waterproof Shell Bomber Jacket",
+    "brand": "Monolith",
+    "type": "Bomber Jacket",
+    "color": "Beige",
+    "material": "Waterproof Shell",
+    "fit": "Slim Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "L",
+      "XXL",
+      "S",
+      "XL"
+    ],
+    "price": 8199,
+    "rating": 4.2,
+    "stock": 48
+  },
+  {
+    "id": "JKT-069",
+    "category": "jacket",
+    "name": "ApexApparel Black Polyester Fleece Denim Jacket",
+    "brand": "ApexApparel",
+    "type": "Denim Jacket",
+    "color": "Black",
+    "material": "Polyester Fleece",
+    "fit": "Boxy Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XL",
+      "M",
+      "XXL",
+      "L",
+      "S"
+    ],
+    "price": 4899,
+    "rating": 4.7,
+    "stock": 10
+  },
+  {
+    "id": "JKT-070",
+    "category": "jacket",
+    "name": "CrestLine Brown Faux Leather Bomber Jacket",
+    "brand": "CrestLine",
+    "type": "Bomber Jacket",
+    "color": "Brown",
+    "material": "Faux Leather",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "S",
+      "XXL",
+      "L"
+    ],
+    "price": 6799,
+    "rating": 4.5,
+    "stock": 30
+  },
+  {
+    "id": "JKT-071",
+    "category": "jacket",
+    "name": "Solstice Blue Waterproof Shell Bomber Jacket",
+    "brand": "Solstice",
+    "type": "Bomber Jacket",
+    "color": "Blue",
+    "material": "Waterproof Shell",
+    "fit": "Slim Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "M",
+      "XXL",
+      "S",
+      "XL"
+    ],
+    "price": 7799,
+    "rating": 4.4,
+    "stock": 44
+  },
+  {
+    "id": "JKT-072",
+    "category": "jacket",
+    "name": "Veloce Grey Wool Blend Blazer Jacket",
+    "brand": "Veloce",
+    "type": "Blazer Jacket",
+    "color": "Grey",
+    "material": "Wool Blend",
+    "fit": "Oversized Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XL",
+      "XXL",
+      "M",
+      "S"
+    ],
+    "price": 6649,
+    "rating": 4.2,
+    "stock": 42
+  },
+  {
+    "id": "JKT-073",
+    "category": "jacket",
+    "name": "Kova Olive Polyester Fleece Windbreaker",
+    "brand": "Kova",
+    "type": "Windbreaker",
+    "color": "Olive",
+    "material": "Polyester Fleece",
+    "fit": "Regular Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "M",
+      "S",
+      "XXL"
+    ],
+    "price": 4149,
+    "rating": 3.7,
+    "stock": 33
+  },
+  {
+    "id": "JKT-074",
+    "category": "jacket",
+    "name": "ApexApparel Brown Nylon Leather Jacket",
+    "brand": "ApexApparel",
+    "type": "Leather Jacket",
+    "color": "Brown",
+    "material": "Nylon",
+    "fit": "Boxy Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "M",
+      "S",
+      "XXL",
+      "L"
+    ],
+    "price": 2999,
+    "rating": 3.8,
+    "stock": 36
+  },
+  {
+    "id": "JKT-075",
+    "category": "jacket",
+    "name": "Kova Maroon Polyester Fleece Puffer Jacket",
+    "brand": "Kova",
+    "type": "Puffer Jacket",
+    "color": "Maroon",
+    "material": "Polyester Fleece",
+    "fit": "Regular Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XL",
+      "M",
+      "XXL",
+      "S",
+      "L"
+    ],
+    "price": 2699,
+    "rating": 3.5,
+    "stock": 5
+  },
+  {
+    "id": "JKT-076",
+    "category": "jacket",
+    "name": "ApexApparel Beige Wool Blend Blazer Jacket",
+    "brand": "ApexApparel",
+    "type": "Blazer Jacket",
+    "color": "Beige",
+    "material": "Wool Blend",
+    "fit": "Regular Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "XL"
+    ],
+    "price": 8749,
+    "rating": 4.5,
+    "stock": 23
+  },
+  {
+    "id": "JKT-077",
+    "category": "jacket",
+    "name": "UrbanCraft Blue Nylon Blazer Jacket",
+    "brand": "UrbanCraft",
+    "type": "Blazer Jacket",
+    "color": "Blue",
+    "material": "Nylon",
+    "fit": "Boxy Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "M",
+      "S",
+      "XXL",
+      "L",
+      "XL"
+    ],
+    "price": 6549,
+    "rating": 4.7,
+    "stock": 6
+  },
+  {
+    "id": "JKT-078",
+    "category": "jacket",
+    "name": "Kova Navy Faux Leather Leather Jacket",
+    "brand": "Kova",
+    "type": "Leather Jacket",
+    "color": "Navy",
+    "material": "Faux Leather",
+    "fit": "Oversized Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XL",
+      "M",
+      "XXL",
+      "S",
+      "L"
+    ],
+    "price": 2049,
+    "rating": 4.4,
+    "stock": 14
+  },
+  {
+    "id": "JKT-079",
+    "category": "jacket",
+    "name": "Solstice Navy Waterproof Shell Bomber Jacket",
+    "brand": "Solstice",
+    "type": "Bomber Jacket",
+    "color": "Navy",
+    "material": "Waterproof Shell",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XL",
+      "S",
+      "L",
+      "M",
+      "XXL"
+    ],
+    "price": 1999,
+    "rating": 4.7,
+    "stock": 8
+  },
+  {
+    "id": "JKT-080",
+    "category": "jacket",
+    "name": "Veloce Navy Wool Blend Denim Jacket",
+    "brand": "Veloce",
+    "type": "Denim Jacket",
+    "color": "Navy",
+    "material": "Wool Blend",
+    "fit": "Slim Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "XL"
+    ],
+    "price": 4549,
+    "rating": 3.6,
+    "stock": 29
+  },
+  {
+    "id": "JKT-081",
+    "category": "jacket",
+    "name": "ApexApparel Maroon Wool Blend Denim Jacket",
+    "brand": "ApexApparel",
+    "type": "Denim Jacket",
+    "color": "Maroon",
+    "material": "Wool Blend",
+    "fit": "Boxy Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "S",
+      "L",
+      "XL"
+    ],
+    "price": 7549,
+    "rating": 4.8,
+    "stock": 26
+  },
+  {
+    "id": "JKT-082",
+    "category": "jacket",
+    "name": "Solstice White Nylon Blazer Jacket",
+    "brand": "Solstice",
+    "type": "Blazer Jacket",
+    "color": "White",
+    "material": "Nylon",
+    "fit": "Regular Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "L",
+      "XXL",
+      "M"
+    ],
+    "price": 7749,
+    "rating": 4.2,
+    "stock": 13
+  },
+  {
+    "id": "JKT-083",
+    "category": "jacket",
+    "name": "Monolith White Nylon Puffer Jacket",
+    "brand": "Monolith",
+    "type": "Puffer Jacket",
+    "color": "White",
+    "material": "Nylon",
+    "fit": "Boxy Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "S",
+      "XXL",
+      "L",
+      "XL"
+    ],
+    "price": 8099,
+    "rating": 5,
+    "stock": 35
+  },
+  {
+    "id": "JKT-084",
+    "category": "jacket",
+    "name": "NordicWear Navy Nylon Puffer Jacket",
+    "brand": "NordicWear",
+    "type": "Puffer Jacket",
+    "color": "Navy",
+    "material": "Nylon",
+    "fit": "Oversized Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XL",
+      "S",
+      "XXL"
+    ],
+    "price": 8499,
+    "rating": 4.2,
+    "stock": 25
+  },
+  {
+    "id": "JKT-085",
+    "category": "jacket",
+    "name": "Solstice Blue Nylon Blazer Jacket",
+    "brand": "Solstice",
+    "type": "Blazer Jacket",
+    "color": "Blue",
+    "material": "Nylon",
+    "fit": "Slim Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "M",
+      "L",
+      "S",
+      "XL",
+      "XXL"
+    ],
+    "price": 7349,
+    "rating": 4.4,
+    "stock": 14
+  },
+  {
+    "id": "JKT-086",
+    "category": "jacket",
+    "name": "CrestLine Blue Waterproof Shell Blazer Jacket",
+    "brand": "CrestLine",
+    "type": "Blazer Jacket",
+    "color": "Blue",
+    "material": "Waterproof Shell",
+    "fit": "Slim Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "L",
+      "S",
+      "M",
+      "XL"
+    ],
+    "price": 8199,
+    "rating": 3.9,
+    "stock": 30
+  },
+  {
+    "id": "JKT-087",
+    "category": "jacket",
+    "name": "UrbanCraft Navy Polyester Fleece Denim Jacket",
+    "brand": "UrbanCraft",
+    "type": "Denim Jacket",
+    "color": "Navy",
+    "material": "Polyester Fleece",
+    "fit": "Slim Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "S",
+      "XL",
+      "L"
+    ],
+    "price": 6049,
+    "rating": 4.9,
+    "stock": 11
+  },
+  {
+    "id": "JKT-088",
+    "category": "jacket",
+    "name": "Solstice Charcoal Faux Leather Bomber Jacket",
+    "brand": "Solstice",
+    "type": "Bomber Jacket",
+    "color": "Charcoal",
+    "material": "Faux Leather",
+    "fit": "Slim Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 8849,
+    "rating": 3.7,
+    "stock": 44
+  },
+  {
+    "id": "JKT-089",
+    "category": "jacket",
+    "name": "Veloce Olive Denim Denim Jacket",
+    "brand": "Veloce",
+    "type": "Denim Jacket",
+    "color": "Olive",
+    "material": "Denim",
+    "fit": "Slim Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "XL",
+      "L",
+      "S",
+      "M"
+    ],
+    "price": 5399,
+    "rating": 3.6,
+    "stock": 9
+  },
+  {
+    "id": "JKT-090",
+    "category": "jacket",
+    "name": "Monolith Olive Wool Blend Windbreaker",
+    "brand": "Monolith",
+    "type": "Windbreaker",
+    "color": "Olive",
+    "material": "Wool Blend",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XXL",
+      "L",
+      "M"
+    ],
+    "price": 8899,
+    "rating": 4.5,
+    "stock": 7
+  },
+  {
+    "id": "JKT-091",
+    "category": "jacket",
+    "name": "Veloce Navy Denim Bomber Jacket",
+    "brand": "Veloce",
+    "type": "Bomber Jacket",
+    "color": "Navy",
+    "material": "Denim",
+    "fit": "Slim Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "L",
+      "XL",
+      "XXL",
+      "M"
+    ],
+    "price": 7249,
+    "rating": 4.9,
+    "stock": 33
+  },
+  {
+    "id": "JKT-092",
+    "category": "jacket",
+    "name": "Kova Olive Nylon Puffer Jacket",
+    "brand": "Kova",
+    "type": "Puffer Jacket",
+    "color": "Olive",
+    "material": "Nylon",
+    "fit": "Boxy Fit",
+    "occasion": "Travel",
+    "available_sizes": [
+      "M",
+      "XL",
+      "L",
+      "XXL",
+      "S"
+    ],
+    "price": 2349,
+    "rating": 4,
+    "stock": 45
+  },
+  {
+    "id": "JKT-093",
+    "category": "jacket",
+    "name": "Veloce Black Faux Leather Leather Jacket",
+    "brand": "Veloce",
+    "type": "Leather Jacket",
+    "color": "Black",
+    "material": "Faux Leather",
+    "fit": "Regular Fit",
+    "occasion": "Party",
+    "available_sizes": [
+      "M",
+      "L",
+      "XXL",
+      "XL",
+      "S"
+    ],
+    "price": 7549,
+    "rating": 4.5,
+    "stock": 20
+  },
+  {
+    "id": "JKT-094",
+    "category": "jacket",
+    "name": "Monolith Charcoal Waterproof Shell Puffer Jacket",
+    "brand": "Monolith",
+    "type": "Puffer Jacket",
+    "color": "Charcoal",
+    "material": "Waterproof Shell",
+    "fit": "Boxy Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "XL",
+      "S",
+      "L",
+      "M"
+    ],
+    "price": 3649,
+    "rating": 3.8,
+    "stock": 21
+  },
+  {
+    "id": "JKT-095",
+    "category": "jacket",
+    "name": "CrestLine White Polyester Fleece Bomber Jacket",
+    "brand": "CrestLine",
+    "type": "Bomber Jacket",
+    "color": "White",
+    "material": "Polyester Fleece",
+    "fit": "Oversized Fit",
+    "occasion": "Outdoor",
+    "available_sizes": [
+      "XL",
+      "L",
+      "XXL"
+    ],
+    "price": 5049,
+    "rating": 4,
+    "stock": 47
+  },
+  {
+    "id": "JKT-096",
+    "category": "jacket",
+    "name": "CrestLine Brown Denim Bomber Jacket",
+    "brand": "CrestLine",
+    "type": "Bomber Jacket",
+    "color": "Brown",
+    "material": "Denim",
+    "fit": "Regular Fit",
+    "occasion": "Casual",
+    "available_sizes": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XXL"
+    ],
+    "price": 8299,
+    "rating": 5,
+    "stock": 8
+  },
+  {
+    "id": "JKT-097",
+    "category": "jacket",
+    "name": "ApexApparel Charcoal Nylon Windbreaker",
+    "brand": "ApexApparel",
+    "type": "Windbreaker",
+    "color": "Charcoal",
+    "material": "Nylon",
+    "fit": "Boxy Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "M",
+      "L",
+      "S"
+    ],
+    "price": 6099,
+    "rating": 3.9,
+    "stock": 27
+  },
+  {
+    "id": "JKT-098",
+    "category": "jacket",
+    "name": "UrbanCraft Olive Wool Blend Puffer Jacket",
+    "brand": "UrbanCraft",
+    "type": "Puffer Jacket",
+    "color": "Olive",
+    "material": "Wool Blend",
+    "fit": "Slim Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "XL",
+      "M",
+      "S",
+      "XXL",
+      "L"
+    ],
+    "price": 5199,
+    "rating": 4.1,
+    "stock": 16
+  },
+  {
+    "id": "JKT-099",
+    "category": "jacket",
+    "name": "UrbanCraft Beige Denim Windbreaker",
+    "brand": "UrbanCraft",
+    "type": "Windbreaker",
+    "color": "Beige",
+    "material": "Denim",
+    "fit": "Regular Fit",
+    "occasion": "Office",
+    "available_sizes": [
+      "L",
+      "XL",
+      "S",
+      "XXL",
+      "M"
+    ],
+    "price": 7049,
+    "rating": 3.6,
+    "stock": 43
+  },
+  {
+    "id": "JKT-100",
+    "category": "jacket",
+    "name": "NordicWear Black Faux Leather Windbreaker",
+    "brand": "NordicWear",
+    "type": "Windbreaker",
+    "color": "Black",
+    "material": "Faux Leather",
+    "fit": "Regular Fit",
+    "occasion": "Formal",
+    "available_sizes": [
+      "XXL",
+      "M",
+      "S",
+      "L"
+    ],
+    "price": 8249,
+    "rating": 5,
+    "stock": 12
+  }
+]
